@@ -1,0 +1,678 @@
+{
+  "navigation": {
+    "dashboards": "Dashboards",
+    "crm": "CRM",
+    "home": "Home",
+    "analytics": "Analytics",
+    "eCommerce": "eCommerce",
+    "academy": "Academy",
+    "logistics": "Logistics",
+    "frontPages": "Front Pages",
+    "landing": "Landing",
+    "pricing": "Pricing",
+    "payment": "Payment",
+    "checkout": "Checkout",
+    "helpCenter": "Help Center",
+    "appsPages": "Apps & Pages",
+    "apps": "Apps",
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "list": "List",
+    "add": "Add",
+    "category": "Category",
+    "orders": "Orders",
+    "details": "Details",
+    "customers": "Customers",
+    "manageReviews": "Manage Reviews",
+    "referrals": "Referrals",
+    "settings": "Settings",
+    "myCourses": "My Courses",
+    "courseDetails": "Course Details",
+    "fleet": "Fleet",
+    "email": "Email",
+    "chat": "Chat",
+    "calendar": "Calendar",
+    "kanban": "Kanban",
+    "invoice": "Invoice",
+    "preview": "Preview",
+    "edit": "Edit",
+    "user": "User",
+    "view": "View",
+    "rolesPermissions": "Roles & Permissions",
+    "roles": "Roles",
+    "permissions": "Permissions",
+    "pages": "Pages",
+    "userProfile": "User Profile",
+    "accountSettings": "Account Settings",
+    "faq": "FAQ",
+    "miscellaneous": "Miscellaneous",
+    "comingSoon": "Coming Soon",
+    "underMaintenance": "Under Maintenance",
+    "pageNotFound404": "Page Not Found - 404",
+    "notAuthorized401": "Not Authorized - 401",
+    "authPages": "Auth Pages",
+    "login": "Login",
+    "loginV1": "Login v1",
+    "loginV2": "Login v2",
+    "register": "Register",
+    "registerV1": "Register v1",
+    "registerV2": "Register v2",
+    "registerMultiSteps": "Register Multi-Steps",
+    "verifyEmail": "Verify Email",
+    "verifyEmailV1": "Verify Email v1",
+    "verifyEmailV2": "Verify Email v2",
+    "forgotPassword": "Forgot Password",
+    "forgotPasswordV1": "Forgot Password v1",
+    "forgotPasswordV2": "Forgot Password v2",
+    "resetPassword": "Reset Password",
+    "resetPasswordV1": "Reset Password v1",
+    "resetPasswordV2": "Reset Password v2",
+    "twoSteps": "Two Steps",
+    "twoStepsV1": "Two Steps v1",
+    "twoStepsV2": "Two Steps v2",
+    "wizardExamples": "Wizard Examples",
+    "propertyListing": "Property Listing",
+    "createDeal": "Create Deal",
+    "dialogExamples": "Dialog Examples",
+    "widgetExamples": "Widget Examples",
+    "basic": "Basic",
+    "advanced": "Advanced",
+    "statistics": "Statistics",
+    "actions": "Actions",
+    "formsAndTables": "Forms & Tables",
+    "formLayouts": "Form Layouts",
+    "formValidation": "Form Validation",
+    "formWizard": "Form Wizard",
+    "reactTable": "React Table",
+    "formELements": "Form Elements",
+    "muiTables": "MUI Tables",
+    "chartsMisc": "Charts & Misc",
+    "charts": "Charts",
+    "recharts": "Recharts",
+    "apex": "Apex",
+    "foundation": "Foundation",
+    "components": "Components",
+    "menuExamples": "Menu Examples",
+    "raiseSupport": "Raise Support",
+    "documentation": "Documentation",
+    "others": "Others",
+    "itemWithBadge": "Item with Badge",
+    "externalLink": "External Link",
+    "menuLevels": "Menu Levels",
+    "menuLevel2": "Menu Level 2",
+    "menuLevel3": "Menu Level 3",
+    "disabledMenu": "Disabled Menu"
+  },
+  "frontMenu": {
+    "home": "HOME",
+    "products": "PRODUCTS",
+    "services": "SERVICES",
+    "explore": "EXPLORE",
+    "contact": "CONTACT",
+    "manage": "MANAGE",
+    "productMenu": {
+      "individual": "For Individual",
+      "workspace": "Workspace",
+      "classroom": "Interactive Classroom",
+      "onPremise": "On-Premise"
+    },
+    "exploreMenu": {
+      "blog": "VFi Blog",
+      "templates": "Templates",
+      "guide": "Guide",
+      "faq": "FAQ"
+    }
+  },
+  "header": {
+    "login": "Login"
+  },
+  "footer": {
+    "description": "VFiMeet – A comprehensive online meeting solution that provides seamless, secure connections and supports effective collaboration for work, training, and operations.",
+    "installApp": "Install App",
+    "sections": {
+      "customerService": "Customer Service",
+      "aboutUs": "About Us",
+      "contact": "Contact"
+    },
+    "services": {
+      "onlineMeeting": "Online Meeting",
+      "interactiveBoard": "Interactive Board",
+      "latexKeyboard": "Latex Keyboard",
+      "geometry": "Geometry & Graph Drawing",
+      "chemicalEditor": "Chemical Structure Editor",
+      "onlineHelp": "Online Meeting Help"
+    },
+    "aboutLinks": {
+      "blog": "VFi Meet Blog",
+      "responsibility": "Our Responsibility",
+      "terms": "Terms of Service",
+      "privacy": "Privacy Policy",
+      "contactInfo": "Contact Information",
+      "introduction": "About VFiMeet"
+    },
+    "contactInfo": {
+      "address": "82 Dich Vong Hau, Cau Giay, Hanoi",
+      "phone": "+84 945 866 410",
+      "email": "info@vfimeet.com"
+    },
+    "copyright": {
+      "year": "© ${year}, Made with",
+      "by": "by"
+    },
+    "social": {
+      "tiktok": "VFi Meet TikTok Page",
+      "facebook": "VFi Meet Facebook Page",
+      "twitter": "VFi Meet X (Twitter) Page",
+      "youtube": "VFi Meet YouTube Channel"
+    }
+  },
+  "home": {
+    "sections": {
+      "vfiMeet": "VFi Meet",
+      "business": "Business",
+      "education": "Education",
+      "publicSector": "Public Sector",
+      "security": "Security",
+      "advanced": "Advanced"
+    },
+    "hero": {
+      "title": "Connect Anywhere, Work Anytime",
+      "titleAuthenticated": "Organize Professional Meetings",
+      "subtitle": "Comprehensive online meeting platform for business, education and public organizations",
+      "subtitleAuthenticated": "Flexible online meeting & teaching solution, connect anywhere.",
+      "description": "VFi Meet delivers high-quality online meeting experience with end-to-end encryption, fully supporting remote work, online training and digital classroom management.",
+      "descriptionGuest": "Online meeting, work and training platform for individuals & organizations",
+      "descriptionGuest2": "No credit card required. No time limit.",
+      "seoTitle": "VFi Meet – Online meeting, digital classroom & remote work platform",
+      "banner": "🎉 100% FREE - REGISTER NOW!",
+      "cta": {
+        "startMeeting": "Start Meeting Now",
+        "learnMore": "Learn More",
+        "watchDemo": "Watch Demo",
+        "contactSales": "Contact Sales",
+        "createAndJoin": "Create and Join Now",
+        "scheduleMeeting": "Schedule Meeting",
+        "joinMeeting": "JOIN",
+        "register": "Register Free",
+        "login": "Login"
+      },
+      "input": {
+        "placeholder": "Enter meeting code",
+        "tooltipTitle": "How to join a meeting",
+        "tooltipDescription": "Join a meeting instantly by using the unique code at the end of the meeting link.",
+        "tooltipExample": "Example: VFI-XXX-XXX-XXX"
+      },
+      "features": {
+        "free100": "Free for 100 participants",
+        "hd": "HD Quality",
+        "secure": "End-to-end encryption",
+        "recording": "Recording & screen sharing"
+      },
+      "benefits": {
+        "stableMeetings": "Stable meetings",
+        "interactiveClass": "Interactive classroom",
+        "efficientWork": "Efficient work",
+        "secureFlexible": "Secure, flexible",
+        "members100": "100+ members",
+        "shareCollaborate": "Share & collaborate",
+        "recordNotes": "Record & notes",
+        "noInstall": "No installation required"
+      },
+      "stats": {
+        "users": "users",
+        "meetings": "meetings/day",
+        "uptime": "uptime",
+        "satisfaction": "satisfaction",
+        "userCount": "1M+",
+        "meetingCount": "10k+"
+      },
+      "meeting": {
+        "ongoing": "Ongoing",
+        "upcoming": "Upcoming",
+        "join": "Join",
+        "roomNotFound": "Room",
+        "roomNotFoundSuffix": "does not exist or has been deleted"
+      }
+    },
+    "whyChoose": {
+      "title": "Why Choose VFi Meet?",
+      "description": "High-performance online conference platform, stable operation and ready to scale for any organization size.",
+      "imageAlt": "VFi Meet Interface",
+      "features": [
+        "Self-hosted infrastructure, optimized for large-scale online meetings",
+        "Smooth interactive experience, focused on content",
+        "Suitable for multiple models: enterprise, training, webinars",
+        "Flexible customization according to organizational structure and needs",
+        "Comprehensive security, strict data control",
+        "Streamlined interface, priority on operational efficiency"
+      ]
+    },
+    "business": {
+      "title": "Collaboration & Work Management Platform for Enterprises",
+      "description": "VFi Meet is an enterprise collaboration platform that integrates online meetings, internal communication, and work management on a unified system, helping organizations operate efficiently and reduce tool fragmentation.",
+      "imageAlt": "Business Meeting",
+      "features": [
+        "Stable online meetings, optimized for enterprise scale",
+        "Internal communication and real-time collaboration",
+        "Work and project management on a unified platform",
+        "Centralized administration according to organizational structure",
+        "Flexible customization & expansion, easy to integrate with internal systems"
+      ]
+    },
+    "education": {
+      "title": "Online Classroom Platform & Interactive Learning",
+      "description": "VFi Meet provides an online classroom and collaboration platform for education, helping to organize teaching, communication, and classroom management effectively on a unified system.",
+      "imageAlt": "Education Platform",
+      "features": [
+        "Stable online classrooms, supporting training from small to large scale",
+        "Diverse interactive exercises, encouraging students to learn actively",
+        "Connecting teaching - lectures - exercises on a unified platform",
+        "Grading & tracking learning progress, supporting accurate assessment",
+        "Centralized management & flexible expansion, suitable for various training models"
+      ]
+    },
+    "publicSector": {
+      "title": "Digital Meeting Room for Public Sector",
+      "description": "VFi Meet provides a secure and safe digital meeting room platform for government agencies, supporting flexible deployment, AI integration, and connection with internal systems.",
+      "imageAlt": "Public Sector",
+      "features": [
+        "Ensuring safety, information security, meeting state management requirements",
+        "On-premise or private cloud deployment, suitable for each organization's infrastructure",
+        "Supporting large-scale conferences and online classes, stable and continuous",
+        "Connecting and integrating internal systems, synchronizing data and operations",
+        "AI-assisted meeting management and content summarization"
+      ]
+    },
+    "security": {
+      "title": "Maximum Security and Privacy",
+      "description": "VFi Meet focuses on protecting user data and privacy, applying modern security mechanisms and complying with international standards in system operation.",
+      "imageAlt": "Security",
+      "features": [
+        "Data encryption in transit helps protect meeting and classroom content",
+        "Multi-factor authentication (MFA) enhances system access security",
+        "Role-based access control (RBAC) manages users and permissions",
+        "Compliance with data protection standards such as GDPR and related regulations",
+        "Audit logs for system monitoring and inspection"
+      ]
+    },
+    "advanced": {
+      "title": "Advanced Features for Every Need",
+      "description": "Multi-language support, SSO integration, and open API for unlimited customization.",
+      "features": {
+        "api": {
+          "badge": "Integration",
+          "title": "Flexible Open API",
+          "description": "Easy integration with existing systems through REST API and Webhooks."
+        },
+        "whiteLabel": {
+          "badge": "Customization",
+          "title": "White Label Solution",
+          "description": "Fully customize the interface to your brand with logo, colors, and custom domain."
+        },
+        "ai": {
+          "badge": "Artificial Intelligence",
+          "title": "Smart AI Features",
+          "description": "Auto-subtitles, AI meeting summaries, and real-time multilingual translation.",
+          "items": ["AI Subtitles", "Summary", "Translation", "Notes"]
+        }
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Find answers to common questions about VFi Meet",
+      "questions": [
+        {
+          "question": "Does VFi Meet have a time limit for meetings?",
+          "answer": "No. VFi Meet does not limit meeting duration, even with a free account. You can host meetings or online classes for as long as you need without automatic session termination."
+        },
+        {
+          "question": "Do I need to install an online meeting app?",
+          "answer": "No. You can join meetings directly from your web browser on computer, phone, or tablet just by opening the meeting link."
+        },
+        {
+          "question": "Does VFi Meet support meeting recording?",
+          "answer": "Yes. VFi Meet allows you to record meetings for later review. Videos are stored on the system and you can share or grant permissions to others to view when needed."
+        },
+        {
+          "question": "Do participants need an account to join a meeting room?",
+          "answer": "Not required. Participants can join meeting rooms using a link or room code without logging in. However, when logged in, you can access more features and manage meetings more conveniently."
+        },
+        {
+          "question": "Can I use VFi Meet on phones and iPads?",
+          "answer": "Yes. VFi Meet works well on phones and iPads. You just need to open the meeting link in your browser and join immediately without installing additional software."
+        },
+        {
+          "question": "Is VFi Meet suitable for online teaching?",
+          "answer": "Yes. VFi Meet is very suitable for online teaching. Teachers can organize online classes, manage students, arrange schedules, and teach directly through video, screen sharing, or whiteboard. The system also supports recording lessons for students to review later."
+        },
+        {
+          "question": "Does VFi Meet support whiteboards for classes?",
+          "answer": "Yes. VFi Meet supports online whiteboards to help teachers present lessons, write formulas, or illustrate content right in the classroom."
+        },
+        {
+          "question": "Can I organize hybrid online and offline classes?",
+          "answer": "Yes. VFi Meet allows organizing hybrid online and offline classes. You can share additional cameras in the classroom so online students can follow lessons and classroom activities in real-time."
+        },
+        {
+          "question": "Does VFi Meet support meeting notes?",
+          "answer": "Yes. VFi Meet integrates AI to support meetings such as content transcription, language translation, and automatic meeting summarization, helping participants easily follow and review important content."
+        },
+        {
+          "question": "How do I invite others to join a meeting?",
+          "answer": "You can share the meeting link, send email invitations directly from VFi Meet, or share the meeting code. Invitees just need to click the link or enter the code to join."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Start Today",
+      "description": "Even with a free account, you can use VFi Meet to organize meetings or online classes.",
+      "keyFeatures": [
+        "No credit card required",
+        "Sign up in just 30 seconds",
+        "100% Free"
+      ],
+      "freePlan": {
+        "title": "Free plan includes:",
+        "features": [
+          "Meeting sessions up to 120 minutes",
+          "Up to 100 participants",
+          "Stable and secure connection",
+          "Join directly from browser, no installation required"
+        ]
+      },
+      "additionalInfo": "And many other useful features waiting for you to discover on VFi Meet.",
+      "buttons": {
+        "register": "Sign Up Free Now",
+        "contact": "Contact Support"
+      },
+      "supportMessage": "Need support or consultation? Message us now, VFi Meet team is always ready to help you get started quickly and effectively."
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Contact",
+      "title": "Connect",
+      "titleSuffix": "With VFi Meet",
+      "description": "We're always ready to listen and support you. Leave your information to get detailed consultation about VFi Meet online meeting solutions",
+      "buttons": {
+        "contact": "Contact Now",
+        "about": "About Us"
+      }
+    },
+    "form": {
+      "badge": "Send Message",
+      "title": "Contact Form",
+      "description": "Please fill in the information below. We will contact you within 24 hours",
+      "infoTitle": "Contact information",
+      "infoDescription": "Please provide complete information so we can serve you better",
+      "fields": {
+        "name": "Full Name",
+        "namePlaceholder": "John Doe",
+        "email": "Email",
+        "emailPlaceholder": "email@example.com",
+        "phone": "Phone Number",
+        "phonePlaceholder": "+84 xxx xxx xxx",
+        "organization": "Company / Organization",
+        "organizationPlaceholder": "Company name",
+        "subject": "Subject",
+        "subjectPlaceholder": "Select a subject",
+        "message": "Message",
+        "messagePlaceholder": "Tell us what you're interested in...",
+        "required": "Required field"
+      },
+      "subjects": {
+        "guide": "User Guide",
+        "consultation": "Solution Consultation",
+        "support": "Technical Support",
+        "trial": "Trial Registration",
+        "enterprise": "Enterprise Quote",
+        "partnership": "Business Partnership",
+        "other": "Other"
+      },
+      "validation": {
+        "required": "This field is required",
+        "emailInvalid": "Invalid email address",
+        "phoneInvalid": "Invalid phone number"
+      },
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Sent successfully!",
+      "successMessage": "Thank you for contacting us. We will respond as soon as possible.",
+      "error": "An error occurred. Please try again later.",
+      "whyChoose": {
+        "number": "1",
+        "title": "Why Choose VFi Meet?",
+        "items": [
+          {
+            "title": "Stable Quality",
+            "description": "Sharp images, clear audio, optimized bandwidth for meetings and online classes"
+          },
+          {
+            "title": "No Installation Required",
+            "description": "Join directly from browser, no software download needed"
+          },
+          {
+            "title": "Perfect for Meetings & Teaching",
+            "description": "Screen sharing, whiteboard, participant management and many interactive tools"
+          },
+          {
+            "title": "Quick Support",
+            "description": "VFi Meet team is always ready to help when you need"
+          }
+        ]
+      },
+      "process": {
+        "number": "2",
+        "title": "Work Process",
+        "steps": [
+          {
+            "title": "Submit Information",
+            "description": "Fill the form with detailed information"
+          },
+          {
+            "title": "Free Consultation",
+            "description": "Expert contacts within 24h"
+          },
+          {
+            "title": "Demo & Experience",
+            "description": "Free trial for 30 days"
+          },
+          {
+            "title": "Deploy & Support",
+            "description": "Onboarding and team training"
+          }
+        ]
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "description": "Many ways you can connect with us. Choose the method that suits you best",
+      "socialTitle": "Connect With Us",
+      "items": {
+        "office": {
+          "title": "Office",
+          "address": "Floor 5, Building A, 123 ABC Street",
+          "city": "Hanoi, Vietnam"
+        },
+        "email": {
+          "title": "Email",
+          "description": "Send us an email",
+          "general": "info@vfimeet.vn",
+          "support": "support@vfimeet.vn"
+        },
+        "phone": {
+          "title": "Hotline",
+          "description": "24/7 support anytime, anywhere",
+          "hotline": "+84 24 3999 9999",
+          "mobile": "+84 912 345 678"
+        },
+        "hours": {
+          "title": "Business Hours",
+          "weekday": "Monday - Friday: 8:00 AM - 6:00 PM",
+          "weekend": "Saturday: 8:00 AM - 12:00 PM"
+        }
+      }
+    },
+    "about": {
+      "badge": "About Us",
+      "title": "VFi Meet - Simple, Effective Connection",
+      "description": "An online meeting platform designed to deliver the best experience for users",
+      "stats": [
+        {
+          "value": "10,000+",
+          "label": "Users"
+        },
+        {
+          "value": "500+",
+          "label": "Enterprises"
+        },
+        {
+          "value": "99.9%",
+          "label": "Uptime"
+        },
+        {
+          "value": "5/5",
+          "label": "Rating"
+        }
+      ],
+      "values": {
+        "title": "Core Values",
+        "items": [
+          {
+            "title": "Vision",
+            "description": "To become a modern digital meeting and training platform, helping organizations connect, work and teach effectively in a digital environment."
+          },
+          {
+            "title": "Mission",
+            "description": "Provide an intelligent online meeting and training platform that enhances interaction quality, standardizes work processes and ensures data security."
+          },
+          {
+            "title": "Values",
+            "description": "Quality – Security – Innovation – Customer-centric – Collaboration and sustainable development are the values that guide product development and user service."
+          }
+        ]
+      }
+    },
+    "map": {
+      "title": "Office Location",
+      "description": "Visit our office",
+      "getDirections": "Get Directions"
+    }
+  },
+  "vfiPro": {
+    "hero": {
+      "badge": "FOR PROFESSIONAL INDIVIDUALS",
+      "title": "Video conferencing",
+      "titleHighlight": "professional",
+      "titleSuffix": "for individuals",
+      "description": "Upgrade your professional video conferencing experience with stable quality, advanced features and enhanced support tools.",
+      "benefits": [
+        "24-hour continuous meetings",
+        "Full HD recording",
+        "Multi-platform livestream",
+        "Advanced meeting tools"
+      ],
+      "cta": {
+        "trial": "Start Free Trial",
+        "features": "View Features"
+      },
+      "trustNote": "✓ No credit card required • Cancel anytime",
+      "stats": {
+        "users": "Users",
+        "rating": "Rating",
+        "support": "24/7 Support"
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Powerful tools for professional video conferencing",
+      "items": [
+        {
+          "title": "Unlimited Meetings",
+          "description": "Host meetings up to 24 hours continuously without interruption"
+        },
+        {
+          "title": "High Quality Recording",
+          "description": "Record entire meetings in Full HD quality, store and share easily"
+        },
+        {
+          "title": "Multi-Platform Livestream",
+          "description": "Stream live to YouTube, Facebook and other platforms simultaneously"
+        },
+        {
+          "title": "Advanced Whiteboard",
+          "description": "Professional drawing, annotation and online collaboration tools"
+        },
+        {
+          "title": "Participant Management",
+          "description": "Control speaking rights, group division and manage breakout rooms"
+        },
+        {
+          "title": "Diverse Integration",
+          "description": "Connect with Google Drive, Dropbox and popular work tools"
+        }
+      ]
+    },
+    "target": {
+      "title": "Who should use VFi Pro?",
+      "subtitle": "VFi Pro is suitable for individuals, lecturers, experts, freelancers and small working groups who regularly organize meetings, training or online exchanges, requiring stable quality and professional meeting tools.",
+      "audiences": [
+        {
+          "title": "Teachers / Lecturers",
+          "description": "Online teaching, screen sharing and interactive whiteboard"
+        },
+        {
+          "title": "Freelancer / Expert",
+          "description": "Consulting, training or meeting with clients online"
+        },
+        {
+          "title": "Small working groups",
+          "description": "Organize group meetings, exchange work and collaborate remotely"
+        },
+        {
+          "title": "Training / Workshop",
+          "description": "Organize sharing sessions or online training for many people"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Plan Comparison",
+      "subtitle": "Choose the plan that suits your needs",
+      "free": {
+        "name": "Free",
+        "price": "$0",
+        "period": "forever",
+        "features": [
+          "40 minutes max meeting",
+          "Up to 100 participants",
+          "HD quality",
+          "Basic whiteboard",
+          "Text chat"
+        ],
+        "cta": "Use Free"
+      },
+      "pro": {
+        "name": "VFi Pro",
+        "price": "$9.99",
+        "period": "month",
+        "popular": "Most Popular",
+        "features": [
+          "24-hour unlimited meetings",
+          "Up to 100 participants",
+          "Full HD recording",
+          "Multi-platform livestream",
+          "Advanced whiteboard",
+          "Professional meeting tools",
+          "Priority support"
+        ],
+        "cta": "Start Free Trial"
+      }
+    },
+    "cta": {
+      "title": "Ready to Upgrade?",
+      "description": "Start trying VFi Pro today. No credit card required, cancel anytime.",
+      "button": "Try Free for 14 Days",
+      "note": "No credit card required"
+    }
+  }
+}

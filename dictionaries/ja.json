@@ -1,0 +1,622 @@
+{
+  "navigation": {
+    "dashboards": "ダッシュボード",
+    "crm": "CRM",
+    "home": "ホーム",
+    "analytics": "分析",
+    "eCommerce": "eコマース",
+    "academy": "アカデミー",
+    "logistics": "物流",
+    "frontPages": "フロントページ",
+    "landing": "ランディング",
+    "pricing": "価格",
+    "payment": "支払い",
+    "checkout": "チェックアウト",
+    "helpCenter": "ヘルプセンター",
+    "appsPages": "アプリとページ",
+    "apps": "アプリ",
+    "dashboard": "ダッシュボード",
+    "products": "製品",
+    "list": "リスト",
+    "add": "追加",
+    "category": "カテゴリー",
+    "orders": "注文",
+    "details": "詳細",
+    "customers": "顧客",
+    "manageReviews": "レビュー管理",
+    "referrals": "紹介",
+    "settings": "設定",
+    "myCourses": "マイコース",
+    "courseDetails": "コース詳細",
+    "fleet": "フリート",
+    "email": "メール",
+    "chat": "チャット",
+    "calendar": "カレンダー",
+    "kanban": "カンバン",
+    "invoice": "請求書",
+    "preview": "プレビュー",
+    "edit": "編集",
+    "user": "ユーザー",
+    "view": "表示",
+    "rolesPermissions": "役割と権限",
+    "roles": "役割",
+    "permissions": "権限",
+    "pages": "ページ",
+    "userProfile": "ユーザープロファイル",
+    "accountSettings": "アカウント設定",
+    "faq": "FAQ",
+    "miscellaneous": "その他",
+    "comingSoon": "近日公開",
+    "underMaintenance": "メンテナンス中",
+    "pageNotFound404": "ページが見つかりません - 404",
+    "notAuthorized401": "許可されていません - 401",
+    "authPages": "認証ページ",
+    "login": "ログイン",
+    "loginV1": "ログイン v1",
+    "loginV2": "ログイン v2",
+    "register": "登録",
+    "registerV1": "登録 v1",
+    "registerV2": "登録 v2",
+    "registerMultiSteps": "複数ステップ登録",
+    "verifyEmail": "メール確認",
+    "verifyEmailV1": "メール確認 v1",
+    "verifyEmailV2": "メール確認 v2",
+    "forgotPassword": "パスワードを忘れた",
+    "forgotPasswordV1": "パスワードを忘れた v1",
+    "forgotPasswordV2": "パスワードを忘れた v2",
+    "resetPassword": "パスワードリセット",
+    "resetPasswordV1": "パスワードリセット v1",
+    "resetPasswordV2": "パスワードリセット v2",
+    "twoSteps": "2段階認証",
+    "twoStepsV1": "2段階認証 v1",
+    "twoStepsV2": "2段階認証 v2",
+    "wizardExamples": "ウィザードの例",
+    "propertyListing": "物件リスト",
+    "createDeal": "取引作成",
+    "dialogExamples": "ダイアログの例",
+    "widgetExamples": "ウィジェットの例",
+    "basic": "基本",
+    "advanced": "高度",
+    "statistics": "統計",
+    "actions": "アクション",
+    "formsAndTables": "フォームとテーブル",
+    "formLayouts": "フォームレイアウト",
+    "formValidation": "フォーム検証",
+    "formWizard": "フォームウィザード",
+    "reactTable": "Reactテーブル",
+    "formELements": "フォーム要素",
+    "muiTables": "MUIテーブル",
+    "chartsMisc": "チャートとその他",
+    "charts": "チャート",
+    "recharts": "Recharts",
+    "apex": "Apex",
+    "foundation": "基盤",
+    "components": "コンポーネント",
+    "menuExamples": "メニューの例",
+    "raiseSupport": "サポート依頼",
+    "documentation": "ドキュメント",
+    "others": "その他",
+    "itemWithBadge": "バッジ付きアイテム",
+    "externalLink": "外部リンク",
+    "menuLevels": "メニューレベル",
+    "menuLevel2": "メニューレベル 2",
+    "menuLevel3": "メニューレベル 3",
+    "disabledMenu": "無効なメニュー"
+  },
+  "frontMenu": {
+    "home": "ホーム",
+    "products": "製品",
+    "services": "サービス",
+    "explore": "探索",
+    "contact": "お問い合わせ",
+    "manage": "管理",
+    "productMenu": {
+      "individual": "個人向け",
+      "workspace": "ワークスペース",
+      "classroom": "インタラクティブ教室",
+      "onPremise": "オンプレミス"
+    },
+    "exploreMenu": {
+      "blog": "VFiブログ",
+      "templates": "テンプレート",
+      "guide": "ガイド",
+      "faq": "よくある質問"
+    }
+  },
+  "header": {
+    "login": "ログイン"
+  },
+  "footer": {
+    "description": "VFiMeet – 包��的なオンライン会議ソリューションで、シームレスで安全な接続を提供し、業務、トレーニング、運用の効果的���コラボレーションをサポートします。",
+    "installApp": "アプリをインストール",
+    "sections": {
+      "customerService": "カスタマーサービス",
+      "aboutUs": "会社概要",
+      "contact": "お問い合わせ"
+    },
+    "services": {
+      "onlineMeeting": "オンライン会議",
+      "interactiveBoard": "インタラクティブボード",
+      "latexKeyboard": "Latexキーボード",
+      "geometry": "幾何学とグラフ作成",
+      "chemicalEditor": "化学構造エディタ",
+      "onlineHelp": "オンライン会議ヘルプ"
+    },
+    "aboutLinks": {
+      "blog": "VFi Meetブログ",
+      "responsibility": "当社の責任",
+      "terms": "利用規約",
+      "privacy": "プライバシーポリシー",
+      "contactInfo": "連絡先情報",
+      "introduction": "VFiMeetについて"
+    },
+    "contactInfo": {
+      "address": "82 Dich Vong Hau, Cau Giay, ハノイ",
+      "phone": "+84 945 866 410",
+      "email": "info@vfimeet.com"
+    },
+    "copyright": {
+      "year": "© ${year}, Made with",
+      "by": "by"
+    },
+    "social": {
+      "tiktok": "VFi Meet TikTokページ",
+      "facebook": "VFi Meet Facebookページ",
+      "twitter": "VFi Meet X (Twitter)ページ",
+      "youtube": "VFi Meet YouTubeチャンネル"
+    }
+  },
+  "home": {
+    "sections": {
+      "vfiMeet": "VFi Meet",
+      "business": "ビジネス",
+      "education": "教育",
+      "publicSector": "公共部門",
+      "security": "セキュリティ",
+      "advanced": "高度な機能"
+    },
+    "hero": {
+      "title": "どこでも接続、いつでも仕事",
+      "titleAuthenticated": "プロフェッショナル会議を開催",
+      "subtitle": "ビジネス、教育、公共機関向けの包括的なオンライン会議プラットフォーム",
+      "subtitleAuthenticated": "柔軟なオンライン会議・教育ソリューション、どこでも接続。",
+      "description": "VFi Meetは、エンドツーエンド暗号化による高品質なオンライン会議体験を提供し、リモートワーク、オンライントレーニング、デジタル教室管理を完全にサポートします。",
+      "descriptionGuest": "個人・組織向けオンライン会議、仕事、トレーニングプラットフォーム",
+      "descriptionGuest2": "クレジットカード不要。時間制限なし。",
+      "seoTitle": "VFi Meet – オンライン会議、デジタル教室、リモートワークプラットフォーム",
+      "banner": "🎉 100%無料 - 今すぐ登録！",
+      "cta": {
+        "startMeeting": "今すぐ会議を始める",
+        "learnMore": "詳細を見る",
+        "watchDemo": "デモを見る",
+        "contactSales": "営業に問い合わせ",
+        "createAndJoin": "作成して今すぐ参加",
+        "scheduleMeeting": "会議をスケジュール",
+        "joinMeeting": "参加",
+        "register": "無料登録",
+        "login": "ログイン"
+      },
+      "input": {
+        "placeholder": "会議コードを入力",
+        "tooltipTitle": "会議への参加方法",
+        "tooltipDescription": "会議リンクの最後にある固有のコードを使用して、すぐに会議に参加できます。",
+        "tooltipExample": "例: VFI-XXX-XXX-XXX"
+      },
+      "features": {
+        "free100": "100名まで無料",
+        "hd": "HD品質",
+        "secure": "エンドツーエンド暗号化",
+        "recording": "録画と画面共有"
+      },
+      "benefits": {
+        "stableMeetings": "安定した会議",
+        "interactiveClass": "インタラクティブ教室",
+        "efficientWork": "効率的な仕事",
+        "secureFlexible": "安全で柔軟",
+        "members100": "100名以上",
+        "shareCollaborate": "共有とコラボ",
+        "recordNotes": "録画とメモ",
+        "noInstall": "インストール不要"
+      },
+      "stats": {
+        "users": "ユーザー",
+        "meetings": "会議/日",
+        "uptime": "稼働時間",
+        "satisfaction": "満足度",
+        "userCount": "100万+",
+        "meetingCount": "1万+"
+      },
+      "meeting": {
+        "ongoing": "進行中",
+        "upcoming": "予定",
+        "join": "参加",
+        "roomNotFound": "ルーム",
+        "roomNotFoundSuffix": "が存在しないか削除されました"
+      }
+    },
+    "whyChoose": {
+      "title": "なぜVFi Meetを選ぶのか？",
+      "description": "高性能なオンライン会議プラットフォーム、安定した運用、あらゆる組織規模に対応可能な拡張性。",
+      "imageAlt": "VFi Meetインターフェース",
+      "features": [
+        "自社インフラ、大規模オンライン会議に最適化",
+        "スムーズなインタラクティブ体験、コンテンツに集中",
+        "多様なモデルに対応：企業、トレーニング、ウェビナー",
+        "組織構造とニーズに応じた柔軟なカスタマイズ",
+        "包括的なセキュリティ、厳格なデータ管理",
+        "洗練されたインターフェース、運用効率を優先"
+      ]
+    },
+    "business": {
+      "title": "企業向けコラボレーション＆業務管理プラットフォーム",
+      "description": "VFi Meetは、オンライン会議、社内コミュニケーション、業務管理を統合した企業コラボレーションプラットフォームです。組織の効率的な運用を支援し、ツールの分散を削減します。",
+      "imageAlt": "ビジネス会議",
+      "features": [
+        "安定したオンライン会議、企業規模に最適化",
+        "社内コミュニケーションとリアルタイムコラボレーション",
+        "統一プラットフォームでの作業・プロジェクト管理",
+        "組織構造に応じた集中管理",
+        "柔軟なカスタマイズと拡張、社内システムとの統合が容易"
+      ]
+    },
+    "education": {
+      "title": "オンライン教室プラットフォーム＆インタラクティブ学習",
+      "description": "VFi Meetは教育向けのオンライン教室とコラボレーションプラットフォームを提供し、統一システムで効果的に教育、コミュニケーション、教室管理を整理します。",
+      "imageAlt": "教育プラットフォーム",
+      "features": [
+        "安定したオンライン教室、小規模から大規模までのトレーニングに対応",
+        "多様なインタラクティブ演習、学生の主体的な学習を促進",
+        "教育 - 講義 - 演習を統一プラットフォームで接続",
+        "採点と学習進捗の追跡、正確な評価をサポート",
+        "集中管理と柔軟な拡張、さまざまなトレーニングモデルに適応"
+      ]
+    },
+    "publicSector": {
+      "title": "公共部門向けデジタル会議室",
+      "description": "VFi Meetは、政府機関向けに安全でセキュアなデジタル会議室プラットフォームを提供し、柔軟な導入、AI統合、内部システムとの接続をサポートします。",
+      "imageAlt": "公共部門",
+      "features": [
+        "安全性、情報セキュリティの確保、国家管理要件への対応",
+        "オンプレミスまたはプライベートクラウド展開、各組織のインフラに適応",
+        "大規模な会議やオンラインクラスのサポート、安定した継続性",
+        "内部システムの接続と統合、データと業務の同期",
+        "AI支援による会議管理とコンテンツの要約"
+      ]
+    },
+    "security": {
+      "title": "最大限のセキュリティとプライバシー",
+      "description": "VFi Meetは、ユーザーデータとプライバシーの保護に重点を置き、最新のセキュリティメカニズムを適用し、システム運用において国際基準に準拠しています。",
+      "imageAlt": "セキュリティ",
+      "features": [
+        "転送中のデータ暗号化により、会議と教室のコンテンツを保護",
+        "多要素認証（MFA）によるシステムアクセスセキュリティの強化",
+        "ロールベースのアクセス制御（RBAC）によるユーザーと権限の管理",
+        "GDPRなどのデータ保護基準および関連規制への準拠",
+        "システム監視と検査のための監査ログ"
+      ]
+    },
+    "advanced": {
+      "title": "あらゆるニーズに対応する高度な機能",
+      "description": "多言語サポート、SSO統合、無制限のカスタマイズのためのオープンAPI。",
+      "features": {
+        "api": {
+          "badge": "統合",
+          "title": "柔軟なオープンAPI",
+          "description": "REST APIとWebhookを通じて既存システムと簡単に統合。"
+        },
+        "whiteLabel": {
+          "badge": "カスタマイズ",
+          "title": "ホワイトラベルソリューション",
+          "description": "ロゴ、カラー、カスタムドメインでブランドに合わせてインターフェースを完全にカスタマイズ。"
+        },
+        "ai": {
+          "badge": "人工知能",
+          "title": "スマートAI機能",
+          "description": "自動字幕、AI会議要約、リアルタイム多言語翻訳。",
+          "items": ["AI字幕", "要約", "翻訳", "メモ"]
+        }
+      }
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "VFi Meetに関するよくある質問への回答を見つける",
+      "questions": [
+        {
+          "question": "VFi Meetには会議の時間制限がありますか？",
+          "answer": "いいえ。VFi Meetは無料アカウントでも会議時間を制限しません。必要な限り、自動セッション終了なしで会議やオンラインクラスを開催できます。"
+        },
+        {
+          "question": "オンライン会議アプリをインストールする必要がありますか？",
+          "answer": "いいえ。コンピュータ、電話、タブレットのウェブブラウザから会議リンクを開くだけで、直接会議に参加できます。"
+        },
+        {
+          "question": "VFi Meetは会議の録画をサポートしていますか？",
+          "answer": "はい。VFi Meetでは後で確認するために会議を録画できます。ビデオはシステムに保存され、必要に応じて他の人と共有したり、表示権限を付与したりできます。"
+        },
+        {
+          "question": "参加者は会議室に参加するためにアカウントが必要ですか？",
+          "answer": "必須ではありません。参加者はログインせずにリンクまたはルームコードを使用して会議室に参加できます。ただし、ログインすると、より多くの機能にアクセスし、会議をより便利に管理できます。"
+        },
+        {
+          "question": "スマートフォンやiPadでVFi Meetを使用できますか？",
+          "answer": "はい。VFi MeetはスマートフォンやiPadで問題なく動作します。ブラウザで会議リンクを開くだけで、追加のソフトウェアをインストールすることなく、すぐに参加できます。"
+        },
+        {
+          "question": "VFi Meetはオンライン教育に適していますか？",
+          "answer": "はい。VFi Meetはオンライン教育に非常に適しています。教師はオンラインクラスを開催し、学生を管理し、スケジュールを調整し、ビデオ、画面共有、ホワイトボードを通じて直接教えることができます。システムは後で学生が確認できるようにレッスンの録画もサポートしています。"
+        },
+        {
+          "question": "VFi Meetはクラス用のホワイトボードをサポートしていますか？",
+          "answer": "はい。VFi Meetはオンラインホワイトボードをサポートしており、教師がレッスンを発表したり、数式を書いたり、教室で直接コンテンツを説明したりするのに役立ちます。"
+        },
+        {
+          "question": "オンラインとオフラインのハイブリッドクラスを開催できますか？",
+          "answer": "はい。VFi Meetではオンラインとオフラインのハイブリッドクラスを開催できます。教室に追加のカメラを共有して、オンライン学生がリアルタイムでレッスンと教室活動をフォローできるようにすることができます。"
+        },
+        {
+          "question": "VFi Meetは会議メモをサポートしていますか？",
+          "answer": "はい。VFi MeetはAIを統合して、コンテンツの文字起こし、言語翻訳、自動会議要約などの会議をサポートし、参加者が重要なコンテンツを簡単にフォローして確認できるようにします。"
+        },
+        {
+          "question": "他の人を会議に招待するにはどうすればよいですか？",
+          "answer": "会議リンクを共有したり、VFi Meetから直接メール招待を送信したり、会議コードを共有したりできます。招待された人はリンクをクリックするか、コードを入力するだけで参加できます。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "今日から始めましょう",
+      "description": "無料アカウントでも、VFi Meetを使用して会議やオンラインクラスを開催できます。",
+      "keyFeatures": [
+        "クレジットカード不要",
+        "わずか30秒で登録",
+        "100%無料"
+      ],
+      "freePlan": {
+        "title": "無料プランに含まれるもの:",
+        "features": [
+          "最大120分の会議セッション",
+          "最大100人の参加者",
+          "安定した安全な接続",
+          "ブラウザから直接参加、インストール不要"
+        ]
+      },
+      "additionalInfo": "そして、VFi Meetで発見を待っている他の多くの便利な機能。",
+      "buttons": {
+        "register": "今すぐ無料登録",
+        "contact": "サポートに連絡"
+      },
+      "supportMessage": "サポートや相談が必要ですか？今すぐメッセージを送信してください。VFi Meetチームは、迅速かつ効果的に開始できるようお手伝いする準備ができています。"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "お問い合わせ",
+      "title": "接続",
+      "titleSuffix": "VFi Meetと",
+      "description": "私たちは常にあなたの話を聞き、サポートする準備ができています。VFi Meetオンライン会議ソリューションについて詳しく相談するには、情報を残してください",
+      "buttons": {
+        "contact": "今すぐお問い合わせ",
+        "about": "私たちについて"
+      }
+    },
+    "form": {
+      "title": "メッセージを送信",
+      "description": "以下の情報を入力してください。24時間以内に返信いたします",
+      "fields": {
+        "firstName": "名",
+        "lastName": "姓",
+        "email": "メール",
+        "phone": "電話番号",
+        "company": "会社",
+        "subject": "件名",
+        "message": "メッセージ",
+        "firstNamePlaceholder": "名を入力",
+        "lastNamePlaceholder": "姓を入力",
+        "emailPlaceholder": "your.email@example.com",
+        "phonePlaceholder": "+84 xxx xxx xxx",
+        "companyPlaceholder": "会社名",
+        "subjectPlaceholder": "件名を選択",
+        "messagePlaceholder": "メッセージを入力..."
+      },
+      "subjects": {
+        "general": "一般的な問い合わせ",
+        "sales": "営業相談",
+        "support": "技術サポート",
+        "partnership": "パートナーシップ",
+        "other": "その他"
+      },
+      "validation": {
+        "required": "この項目は必須です",
+        "emailInvalid": "無効なメールアドレス",
+        "phoneInvalid": "無効な電話番号"
+      },
+      "submit": "メッセージを送信",
+      "submitting": "送信中...",
+      "success": "成功!",
+      "successMessage": "お問い合わせありがとうございます。できるだけ早く返信いたします。",
+      "error": "エラーが発生しました。後でもう一度お試しください。"
+    },
+    "info": {
+      "title": "連絡先情報",
+      "description": "私たちとつながる多くの方法があります。最適な方法をお選びください",
+      "socialTitle": "私たちとつながる",
+      "items": {
+        "office": {
+          "title": "オフィス",
+          "address": "5階、ビルA、ABC通り123番地",
+          "city": "ハノイ、ベトナム"
+        },
+        "email": {
+          "title": "メール",
+          "description": "メールでお問い合わせ",
+          "general": "info@vfimeet.vn",
+          "support": "support@vfimeet.vn"
+        },
+        "phone": {
+          "title": "ホットライン",
+          "description": "24時間365日サポート",
+          "hotline": "+84 24 3999 9999",
+          "mobile": "+84 912 345 678"
+        },
+        "hours": {
+          "title": "営業時間",
+          "weekday": "月曜日 - 金曜日: 8:00 - 18:00",
+          "weekend": "土曜日: 8:00 - 12:00"
+        }
+      }
+    },
+    "about": {
+      "badge": "私たちについて",
+      "title": "VFi Meet - 主要なオンライン会議ソリューション",
+      "description": "VFi Meetは、一流の専門家によって開発されたオンライン会議プラットフォームで、最大限のセキュリティを備えた高品質のオンライン会議体験を提供することを約束します。",
+      "stats": {
+        "users": "ユーザー",
+        "meetings": "会議/日",
+        "countries": "国",
+        "satisfaction": "満足度"
+      },
+      "values": {
+        "title": "コアバリュー",
+        "items": [
+          {
+            "title": "品質",
+            "description": "最高のサービス品質へのコミットメント"
+          },
+          {
+            "title": "セキュリティ",
+            "description": "絶対的な情報セキュリティ"
+          },
+          {
+            "title": "イノベーション",
+            "description": "技術の継続的な改善"
+          },
+          {
+            "title": "サポート",
+            "description": "24/7カスタマーサポート"
+          }
+        ]
+      }
+    },
+    "map": {
+      "title": "オフィスの場所",
+      "description": "私たちのオフィスを訪問",
+      "getDirections": "道順を取得"
+    }
+  },
+  "vfiPro": {
+    "hero": {
+      "badge": "プロフェッショナル個人向け",
+      "title": "ビデオ会議",
+      "titleHighlight": "プロフェッショナル",
+      "titleSuffix": "個人向け",
+      "description": "安定した品質、高度な機能、強化されたサポートツールでプロフェッショナルなビデオ会議体験をアップグレードします。",
+      "benefits": [
+        "24時間連続会議",
+        "フルHD録画",
+        "マルチプラットフォーム配信",
+        "高度な会議ツール"
+      ],
+      "cta": {
+        "trial": "無料トライアル開始",
+        "features": "機能を見る"
+      },
+      "trustNote": "✓ クレジットカード不要 • いつでもキャンセル可能",
+      "stats": {
+        "users": "ユーザー",
+        "rating": "評価",
+        "support": "24/7サポート"
+      }
+    },
+    "features": {
+      "title": "主な機能",
+      "subtitle": "プロフェッショナルなビデオ会議のための強力なツール",
+      "items": [
+        {
+          "title": "無制限会議",
+          "description": "最大24時間連続で中断なく会議を開催"
+        },
+        {
+          "title": "高品質録画",
+          "description": "フルHD品質で会議全体を録画、簡単に保存と共有"
+        },
+        {
+          "title": "マルチプラットフォーム配信",
+          "description": "YouTube、Facebookなどに同時ライブ配信"
+        },
+        {
+          "title": "高度なホワイトボード",
+          "description": "プロフェッショナルな描画、注釈、オンラインコラボレーションツール"
+        },
+        {
+          "title": "参加者管理",
+          "description": "発言権の制御、グループ分け、ブレイクアウトルームの管理"
+        },
+        {
+          "title": "多様な統合",
+          "description": "Google Drive、Dropboxなどの人気ツールと連携"
+        }
+      ]
+    },
+    "target": {
+      "title": "VFi Proは誰が使うべきですか？",
+      "subtitle": "VFi Proは、定期的に会議、研修、オンライン交流を開催し、安定した品質とプロフェッショナルな会議ツールを必要とする個人、講師、専門家、フリーランサー、小規模な作業グループに適しています。",
+      "audiences": [
+        {
+          "title": "教師 / 講師",
+          "description": "オンライン教育、画面共有、インタラクティブホワイトボード"
+        },
+        {
+          "title": "フリーランサー / 専門家",
+          "description": "コンサルティング、トレーニング、またはオンラインでクライアントとの会議"
+        },
+        {
+          "title": "小規模作業グループ",
+          "description": "グループ会議の開催、業務交流、リモートコラボレーション"
+        },
+        {
+          "title": "トレーニング / ワークショップ",
+          "description": "多くの人のためのオンライン共有セッションまたはトレーニングの開催"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "プラン比較",
+      "subtitle": "ニーズに合ったプランを選択",
+      "free": {
+        "name": "無料",
+        "price": "¥0",
+        "period": "永久",
+        "features": [
+          "最大40分の会議",
+          "最大100人の参加者",
+          "HD品質",
+          "基本ホワイトボード",
+          "テキストチャット"
+        ],
+        "cta": "無料で使用"
+      },
+      "pro": {
+        "name": "VFi Pro",
+        "price": "¥1,200",
+        "period": "月",
+        "popular": "最も人気",
+        "features": [
+          "24時間無制限会議",
+          "最大100人の参加者",
+          "フルHD録画",
+          "マルチプラットフォーム配信",
+          "高度なホワイトボード",
+          "プロフェッショナル会議ツール",
+          "優先サポート"
+        ],
+        "cta": "無料トライアル開始"
+      }
+    },
+    "cta": {
+      "title": "アップグレードの準備はできましたか？",
+      "description": "今すぐVFi Proをお試しください。クレジットカード不要、いつでもキャンセル可能。",
+      "button": "14日間無料トライアル",
+      "note": "クレジットカード不要"
+    }
+  }
+}

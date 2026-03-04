@@ -1,0 +1,622 @@
+{
+  "navigation": {
+    "dashboards": "仪表板",
+    "crm": "客户关系管理",
+    "home": "首页",
+    "analytics": "分析",
+    "eCommerce": "电子商务",
+    "academy": "学院",
+    "logistics": "物流",
+    "frontPages": "前端页面",
+    "landing": "登陆页",
+    "pricing": "价格",
+    "payment": "支付",
+    "checkout": "结账",
+    "helpCenter": "帮助中心",
+    "appsPages": "应用和页面",
+    "apps": "应用",
+    "dashboard": "仪表板",
+    "products": "产品",
+    "list": "列表",
+    "add": "添加",
+    "category": "分类",
+    "orders": "订单",
+    "details": "详情",
+    "customers": "客户",
+    "manageReviews": "管理评论",
+    "referrals": "推荐",
+    "settings": "设置",
+    "myCourses": "我的课程",
+    "courseDetails": "课程详情",
+    "fleet": "车队",
+    "email": "邮件",
+    "chat": "聊天",
+    "calendar": "日历",
+    "kanban": "看板",
+    "invoice": "发票",
+    "preview": "预览",
+    "edit": "编辑",
+    "user": "用户",
+    "view": "查看",
+    "rolesPermissions": "角色和权限",
+    "roles": "角色",
+    "permissions": "权限",
+    "pages": "页面",
+    "userProfile": "用户资料",
+    "accountSettings": "账户设置",
+    "faq": "常见问题",
+    "miscellaneous": "其他",
+    "comingSoon": "即将推出",
+    "underMaintenance": "维护中",
+    "pageNotFound404": "页面未找到 - 404",
+    "notAuthorized401": "未授权 - 401",
+    "authPages": "认证页面",
+    "login": "登录",
+    "loginV1": "登录 v1",
+    "loginV2": "登录 v2",
+    "register": "注册",
+    "registerV1": "注册 v1",
+    "registerV2": "注册 v2",
+    "registerMultiSteps": "多步注册",
+    "verifyEmail": "验证邮箱",
+    "verifyEmailV1": "验证邮箱 v1",
+    "verifyEmailV2": "验证邮箱 v2",
+    "forgotPassword": "忘记密码",
+    "forgotPasswordV1": "忘记密码 v1",
+    "forgotPasswordV2": "忘记密码 v2",
+    "resetPassword": "重置密码",
+    "resetPasswordV1": "重置密码 v1",
+    "resetPasswordV2": "重置密码 v2",
+    "twoSteps": "两步验证",
+    "twoStepsV1": "两步验证 v1",
+    "twoStepsV2": "两步验证 v2",
+    "wizardExamples": "向导示例",
+    "propertyListing": "房产列表",
+    "createDeal": "创建交易",
+    "dialogExamples": "对话框示例",
+    "widgetExamples": "小部件示例",
+    "basic": "基础",
+    "advanced": "高级",
+    "statistics": "统计",
+    "actions": "操作",
+    "formsAndTables": "表单和表格",
+    "formLayouts": "表单布局",
+    "formValidation": "表单验证",
+    "formWizard": "表单向导",
+    "reactTable": "React表格",
+    "formELements": "表单元素",
+    "muiTables": "MUI表格",
+    "chartsMisc": "图表和其他",
+    "charts": "图表",
+    "recharts": "Recharts",
+    "apex": "Apex",
+    "foundation": "基础",
+    "components": "组件",
+    "menuExamples": "菜单示例",
+    "raiseSupport": "提交支持",
+    "documentation": "文档",
+    "others": "其他",
+    "itemWithBadge": "带徽章的项目",
+    "externalLink": "外部链接",
+    "menuLevels": "菜单层级",
+    "menuLevel2": "菜单层级 2",
+    "menuLevel3": "菜单层级 3",
+    "disabledMenu": "禁用菜单"
+  },
+  "frontMenu": {
+    "home": "首页",
+    "products": "产品",
+    "services": "服务",
+    "explore": "探索",
+    "contact": "联系我们",
+    "manage": "管理",
+    "productMenu": {
+      "individual": "个人版",
+      "workspace": "工作空间",
+      "classroom": "互动课堂",
+      "onPremise": "企业版"
+    },
+    "exploreMenu": {
+      "blog": "VFi博客",
+      "templates": "模板",
+      "guide": "指南",
+      "faq": "常见问题"
+    }
+  },
+  "header": {
+    "login": "登录"
+  },
+  "footer": {
+    "description": "VFiMeet – 全面的在线会议解决方案，提供流畅、安全的连接，支持工作、培训和运营的高效协作。",
+    "installApp": "安装应用",
+    "sections": {
+      "customerService": "客户服务",
+      "aboutUs": "关于我们",
+      "contact": "联系方式"
+    },
+    "services": {
+      "onlineMeeting": "在线会议",
+      "interactiveBoard": "互动白板",
+      "latexKeyboard": "Latex键盘",
+      "geometry": "几何与图形绘制",
+      "chemicalEditor": "化学结构编辑器",
+      "onlineHelp": "在线会议帮助"
+    },
+    "aboutLinks": {
+      "blog": "VFi Meet博客",
+      "responsibility": "我们的责任",
+      "terms": "服务条款",
+      "privacy": "隐私政策",
+      "contactInfo": "联系信息",
+      "introduction": "关于VFiMeet"
+    },
+    "contactInfo": {
+      "address": "82 Dich Vong Hau, Cau Giay, 河内",
+      "phone": "0945 866 410",
+      "email": "info@vfimeet.com"
+    },
+    "copyright": {
+      "year": "© ${year}, Made with",
+      "by": "by"
+    },
+    "social": {
+      "tiktok": "VFi Meet TikTok页面",
+      "facebook": "VFi Meet Facebook页面",
+      "twitter": "VFi Meet X (Twitter)页面",
+      "youtube": "VFi Meet YouTube频道"
+    }
+  },
+  "home": {
+    "sections": {
+      "vfiMeet": "VFi Meet",
+      "business": "企业",
+      "education": "教育",
+      "publicSector": "公共部门",
+      "security": "安全",
+      "advanced": "高级功能"
+    },
+    "hero": {
+      "title": "随处连接，随时工作",
+      "titleAuthenticated": "组织专业会议",
+      "subtitle": "面向企业、教育和公共组织的综合在线会议平台",
+      "subtitleAuthenticated": "灵活的在线会议和教学解决方案，随处连接。",
+      "description": "VFi Meet提供端到端加密的高质量在线会议体验，全面支持远程办公、在线培训和数字课堂管理。",
+      "descriptionGuest": "面向个人和组织的在线会议、工作和培训平台",
+      "descriptionGuest2": "无需信用卡。无时间限制。",
+      "seoTitle": "VFi Meet – 在线会议、数字课堂和远程办公平台",
+      "banner": "🎉 100%免费 - 立即注册！",
+      "cta": {
+        "startMeeting": "立即开始会议",
+        "learnMore": "了解更多",
+        "watchDemo": "观看演示",
+        "contactSales": "联系销售",
+        "createAndJoin": "创建并立即加入",
+        "scheduleMeeting": "安排会议",
+        "joinMeeting": "加入",
+        "register": "免费注册",
+        "login": "登录"
+      },
+      "input": {
+        "placeholder": "输入会议代码",
+        "tooltipTitle": "如何加入会议",
+        "tooltipDescription": "使用会议链接末尾的唯一代码立即加入会议。",
+        "tooltipExample": "示例: VFI-XXX-XXX-XXX"
+      },
+      "features": {
+        "free100": "100人免费",
+        "hd": "高清质量",
+        "secure": "端到端加密",
+        "recording": "录制和屏幕共享"
+      },
+      "benefits": {
+        "stableMeetings": "稳定会议",
+        "interactiveClass": "互动课堂",
+        "efficientWork": "高效工作",
+        "secureFlexible": "安全灵活",
+        "members100": "100+成员",
+        "shareCollaborate": "共享协作",
+        "recordNotes": "录制笔记",
+        "noInstall": "无需安装"
+      },
+      "stats": {
+        "users": "用户",
+        "meetings": "会议/天",
+        "uptime": "正常运行时间",
+        "satisfaction": "满意度",
+        "userCount": "100万+",
+        "meetingCount": "1万+"
+      },
+      "meeting": {
+        "ongoing": "进行中",
+        "upcoming": "即将开始",
+        "join": "加入",
+        "roomNotFound": "房间",
+        "roomNotFoundSuffix": "不存在或已被删除"
+      }
+    },
+    "whyChoose": {
+      "title": "为什么选择VFi Meet？",
+      "description": "高性能在线会议平台，稳定运行，可根据任何组织规模进行扩展。",
+      "imageAlt": "VFi Meet界面",
+      "features": [
+        "自主基础设施，专为大规模在线会议优化",
+        "流畅的互动体验，专注于内容",
+        "适用于多种模式：企业、培训、网络研讨会",
+        "根据组织结构和需求灵活定制",
+        "全面安全，严格的数据控制",
+        "精简界面，优先考虑运营效率"
+      ]
+    },
+    "business": {
+      "title": "企业协作与工作管理平台",
+      "description": "VFi Meet是一个企业协作平台，集成在线会议、内部沟通和工作管理于统一系统，帮助组织高效运营并减少工具碎片化。",
+      "imageAlt": "商务会议",
+      "features": [
+        "稳定的在线会议，专为企业规模优化",
+        "内部沟通和实时协作",
+        "统一平台上的工作和项目管理",
+        "根据组织结构进行集中管理",
+        "灵活定制和扩展，易于集成内部系统"
+      ]
+    },
+    "education": {
+      "title": "在线课堂平台与互动学习",
+      "description": "VFi Meet提供教育在线课堂和协作平台，帮助在统一系统上有效组织教学、沟通和课堂管理。",
+      "imageAlt": "教育平台",
+      "features": [
+        "稳定的在线课堂，支持从小规模到大规模的培训",
+        "多样化的互动练习，鼓励学生主动学习",
+        "在统一平台上连接教学 - 讲座 - 练习",
+        "评分与学习进度跟踪，支持准确评估",
+        "集中管理和灵活扩展，适用于各种培训模式"
+      ]
+    },
+    "publicSector": {
+      "title": "公共部门数字会议室",
+      "description": "VFi Meet为政府机构提供安全可靠的数字会议室平台，支持灵活部署、AI集成和与内部系统的连接。",
+      "imageAlt": "公共部门",
+      "features": [
+        "确保安全、信息安全，满足国家管理要求",
+        "本地部署或私有云部署，适应各组织基础设施",
+        "支持大规模会议和在线课堂，稳定持续",
+        "连接和集成内部系统，同步数据和业务",
+        "AI辅助会议管理和内容摘要"
+      ]
+    },
+    "security": {
+      "title": "最高安全性和隐私保护",
+      "description": "VFi Meet专注于保护用户数据和隐私，应用现代安全机制，并在系统运营中遵守国际标准。",
+      "imageAlt": "安全",
+      "features": [
+        "传输中的数据加密有助于保护会议和课堂内容",
+        "多因素身份验证（MFA）增强系统访问安全性",
+        "基于角色的访问控制（RBAC）管理用户和权限",
+        "符合GDPR等数据保护标准和相关法规",
+        "审计日志用于系统监控和检查"
+      ]
+    },
+    "advanced": {
+      "title": "满足各种需求的高级功能",
+      "description": "多语言支持、SSO集成和开放API，实现无限定制。",
+      "features": {
+        "api": {
+          "badge": "集成",
+          "title": "灵活的开放API",
+          "description": "通过REST API和Webhook轻松集成现有系统。"
+        },
+        "whiteLabel": {
+          "badge": "定制",
+          "title": "白标解决方案",
+          "description": "使用徽标、颜色和自定义域完全自定义界面以符合您的品牌。"
+        },
+        "ai": {
+          "badge": "人工智能",
+          "title": "智能AI功能",
+          "description": "自动字幕、AI会议摘要和实时多语言翻译。",
+          "items": ["AI字幕", "摘要", "翻译", "笔记"]
+        }
+      }
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "查找有关VFi Meet的常见问题的答案",
+      "questions": [
+        {
+          "question": "VFi Meet的会议有时间限制吗？",
+          "answer": "没有。VFi Meet即使使用免费账户也不限制会议时长。您可以根据需要举办会议或在线课程，不会自动终止会话。"
+        },
+        {
+          "question": "我需要安装在线会议应用程序吗？",
+          "answer": "不需要。您只需在计算机、手机或平板电脑的网络浏览器中打开会议链接，即可直接加入会议。"
+        },
+        {
+          "question": "VFi Meet支持会议录制吗？",
+          "answer": "支持。VFi Meet允许您录制会议以便稍后查看。视频存储在系统中，您可以在需要时与他人共享或授予权限。"
+        },
+        {
+          "question": "参与者需要账户才能进入会议室吗？",
+          "answer": "不是必需的。参与者可以使用链接或房间代码进入会议室，无需登录。但是，登录后可以访问更多功能并更方便地管理会议。"
+        },
+        {
+          "question": "我可以在手机和iPad上使用VFi Meet吗？",
+          "answer": "可以。VFi Meet在手机和iPad上运行良好。您只需在浏览器中打开会议链接，无需安装额外软件即可立即加入。"
+        },
+        {
+          "question": "VFi Meet适合在线教学吗？",
+          "answer": "适合。VFi Meet非常适合在线教学。教师可以组织在线课程、管理学生、安排日程，并通过视频、屏幕共享或白板直接授课。系统还支持录制课程，以便学生稍后复习。"
+        },
+        {
+          "question": "VFi Meet支持课堂白板吗？",
+          "answer": "支持。VFi Meet支持在线白板，帮助教师展示课程、书写公式或直接在课堂中说明内容。"
+        },
+        {
+          "question": "我可以组织线上线下混合课程吗？",
+          "answer": "可以。VFi Meet允许组织线上线下混合课程。您可以在教室中共享额外的摄像头，让在线学生实时跟随课程和课堂活动。"
+        },
+        {
+          "question": "VFi Meet支持会议笔记吗？",
+          "answer": "支持。VFi Meet集成AI支持会议，如内容转录、语言翻译和自动会议摘要，帮助参与者轻松跟踪和复习重要内容。"
+        },
+        {
+          "question": "如何邀请他人加入会议？",
+          "answer": "您可以共享会议链接、直接从VFi Meet发送电子邮件邀请或共享会议代码。受邀者只需点击链接或输入代码即可加入。"
+        }
+      ]
+    },
+    "cta": {
+      "title": "今天开始",
+      "description": "即使使用免费账户，您也可以使用VFi Meet组织会议或在线课程。",
+      "keyFeatures": [
+        "无需信用卡",
+        "仅需30秒即可注册",
+        "100%免费"
+      ],
+      "freePlan": {
+        "title": "免费计划包括：",
+        "features": [
+          "最长120分钟的会议时段",
+          "最多100名参与者",
+          "稳定安全的连接",
+          "直接从浏览器加入，无需安装"
+        ]
+      },
+      "additionalInfo": "还有许多其他有用的功能等待您在VFi Meet上发现。",
+      "buttons": {
+        "register": "立即免费注册",
+        "contact": "联系支持"
+      },
+      "supportMessage": "需要支持或咨询？立即给我们发消息，VFi Meet团队随时准备帮助您快速有效地开始。"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "联系我们",
+      "title": "连接",
+      "titleSuffix": "与VFi Meet",
+      "description": "我们随时准备倾听并支持您。留下您的信息以获取有关VFi Meet在线会议解决方案的详细咨询",
+      "buttons": {
+        "contact": "立即联系",
+        "about": "关于我们"
+      }
+    },
+    "form": {
+      "title": "发送消息",
+      "description": "请填写以下信息，我们将在24小时内回复",
+      "fields": {
+        "firstName": "名字",
+        "lastName": "姓氏",
+        "email": "电子邮件",
+        "phone": "电话号码",
+        "company": "公司",
+        "subject": "主题",
+        "message": "消息",
+        "firstNamePlaceholder": "输入您的名字",
+        "lastNamePlaceholder": "输入您的姓氏",
+        "emailPlaceholder": "your.email@example.com",
+        "phonePlaceholder": "+84 xxx xxx xxx",
+        "companyPlaceholder": "公司名称",
+        "subjectPlaceholder": "选择主题",
+        "messagePlaceholder": "输入您的消息..."
+      },
+      "subjects": {
+        "general": "一般咨询",
+        "sales": "销售咨询",
+        "support": "技术支持",
+        "partnership": "合作伙伴关系",
+        "other": "其他"
+      },
+      "validation": {
+        "required": "此项为必填项",
+        "emailInvalid": "无效的电子邮件地址",
+        "phoneInvalid": "无效的电话号码"
+      },
+      "submit": "发送消息",
+      "submitting": "发送中...",
+      "success": "成功!",
+      "successMessage": "感谢您联系我们。我们将尽快回复。",
+      "error": "发生错误。请稍后重试。"
+    },
+    "info": {
+      "title": "联系信息",
+      "description": "有多种方式可以与我们联系。选择最适合您的方式",
+      "socialTitle": "与我们联系",
+      "items": {
+        "office": {
+          "title": "办公室",
+          "address": "5楼，A座，ABC街123号",
+          "city": "河内，越南"
+        },
+        "email": {
+          "title": "电子邮件",
+          "description": "给我们发邮件",
+          "general": "info@vfimeet.vn",
+          "support": "support@vfimeet.vn"
+        },
+        "phone": {
+          "title": "热线",
+          "description": "24/7随时随地支持",
+          "hotline": "+84 24 3999 9999",
+          "mobile": "+84 912 345 678"
+        },
+        "hours": {
+          "title": "营业时间",
+          "weekday": "周一 - 周五: 8:00 - 18:00",
+          "weekend": "周六: 8:00 - 12:00"
+        }
+      }
+    },
+    "about": {
+      "badge": "关于我们",
+      "title": "VFi Meet - 领先的在线会议解决方案",
+      "description": "VFi Meet是由顶尖专家开发的在线会议平台，致力于提供高质量的在线会议体验和最大的安全性。",
+      "stats": {
+        "users": "用户",
+        "meetings": "会议/天",
+        "countries": "国家",
+        "satisfaction": "满意度"
+      },
+      "values": {
+        "title": "核心价值",
+        "items": [
+          {
+            "title": "质量",
+            "description": "承诺提供最佳服务质量"
+          },
+          {
+            "title": "安全",
+            "description": "绝对的信息安全"
+          },
+          {
+            "title": "创新",
+            "description": "持续改进技术"
+          },
+          {
+            "title": "支持",
+            "description": "24/7客户支持"
+          }
+        ]
+      }
+    },
+    "map": {
+      "title": "办公室位置",
+      "description": "访问我们的办公室",
+      "getDirections": "获取路线"
+    }
+  },
+  "vfiPro": {
+    "hero": {
+      "badge": "专业个人专用",
+      "title": "视频会议",
+      "titleHighlight": "专业",
+      "titleSuffix": "个人版",
+      "description": "升级您的专业视频会议体验，提供稳定的质量、高级功能和增强的支持工具。",
+      "benefits": [
+        "24小时连续会议",
+        "全高清录制",
+        "多平台直播",
+        "高级会议工具"
+      ],
+      "cta": {
+        "trial": "开始免费试用",
+        "features": "查看功能"
+      },
+      "trustNote": "✓ 无需信用卡 • 随时取消",
+      "stats": {
+        "users": "用户",
+        "rating": "评分",
+        "support": "24/7支持"
+      }
+    },
+    "features": {
+      "title": "主要功能",
+      "subtitle": "专业视频会议的强大工具",
+      "items": [
+        {
+          "title": "无限会议",
+          "description": "连续举办最长24小时的会议，无中断"
+        },
+        {
+          "title": "高质量录制",
+          "description": "以全高清质量录制整个会议，轻松存储和分享"
+        },
+        {
+          "title": "多平台直播",
+          "description": "同时直播到YouTube、Facebook等平台"
+        },
+        {
+          "title": "高级白板",
+          "description": "专业的绘图、注释和在线协作工具"
+        },
+        {
+          "title": "参与者管理",
+          "description": "控制发言权、分组和管理分组讨论室"
+        },
+        {
+          "title": "多样化集成",
+          "description": "与Google Drive、Dropbox等热门工作工具连接"
+        }
+      ]
+    },
+    "target": {
+      "title": "谁应该使用VFi Pro？",
+      "subtitle": "VFi Pro适合经常组织会议、培训或在线交流，需要稳定质量和专业会议工具的个人、讲师、专家、自由职业者和小型工作组。",
+      "audiences": [
+        {
+          "title": "教师 / 讲师",
+          "description": "在线教学、屏幕共享和互动白板"
+        },
+        {
+          "title": "自由职业者 / 专家",
+          "description": "咨询、培训或在线与客户会面"
+        },
+        {
+          "title": "小型工作组",
+          "description": "组织小组会议、工作交流和远程协作"
+        },
+        {
+          "title": "培训 / 研讨会",
+          "description": "为许多人组织分享会或在线培训"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "方案比较",
+      "subtitle": "选择适合您需求的方案",
+      "free": {
+        "name": "免费",
+        "price": "¥0",
+        "period": "永久",
+        "features": [
+          "最长40分钟会议",
+          "最多100人参与",
+          "高清质量",
+          "基础白板",
+          "文字聊天"
+        ],
+        "cta": "免费使用"
+      },
+      "pro": {
+        "name": "VFi Pro",
+        "price": "¥79",
+        "period": "月",
+        "popular": "最受欢迎",
+        "features": [
+          "24小时无限会议",
+          "最多100人参与",
+          "全高清录制",
+          "多平台直播",
+          "高级白板",
+          "专业会议工具",
+          "优先支持"
+        ],
+        "cta": "开始免费试用"
+      }
+    },
+    "cta": {
+      "title": "准备好升级了吗？",
+      "description": "今天就开始试用VFi Pro。无需信用卡，随时取消。",
+      "button": "免费试用14天",
+      "note": "无需信用卡"
+    }
+  }
+}

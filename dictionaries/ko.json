@@ -1,0 +1,622 @@
+{
+  "navigation": {
+    "dashboards": "대시보드",
+    "crm": "CRM",
+    "home": "홈",
+    "analytics": "분석",
+    "eCommerce": "이커머스",
+    "academy": "아카데미",
+    "logistics": "물류",
+    "frontPages": "프론트 페이지",
+    "landing": "랜딩",
+    "pricing": "가격",
+    "payment": "결제",
+    "checkout": "체크아웃",
+    "helpCenter": "고객센터",
+    "appsPages": "앱 및 페이지",
+    "apps": "앱",
+    "dashboard": "대시보드",
+    "products": "제품",
+    "list": "목록",
+    "add": "추가",
+    "category": "카테고리",
+    "orders": "주문",
+    "details": "상세정보",
+    "customers": "고객",
+    "manageReviews": "리뷰 관리",
+    "referrals": "추천",
+    "settings": "설정",
+    "myCourses": "내 강좌",
+    "courseDetails": "강좌 상세",
+    "fleet": "차량",
+    "email": "이메일",
+    "chat": "채팅",
+    "calendar": "캘린더",
+    "kanban": "칸반",
+    "invoice": "송장",
+    "preview": "미리보기",
+    "edit": "편집",
+    "user": "사용자",
+    "view": "보기",
+    "rolesPermissions": "역할 및 권한",
+    "roles": "역할",
+    "permissions": "권한",
+    "pages": "페이지",
+    "userProfile": "사용자 프로필",
+    "accountSettings": "계정 설정",
+    "faq": "자주 묻는 질문",
+    "miscellaneous": "기타",
+    "comingSoon": "곧 출시",
+    "underMaintenance": "유지보수 중",
+    "pageNotFound404": "페이지를 찾을 수 없음 - 404",
+    "notAuthorized401": "권한 없음 - 401",
+    "authPages": "인증 페이지",
+    "login": "로그인",
+    "loginV1": "로그인 v1",
+    "loginV2": "로그인 v2",
+    "register": "회원가입",
+    "registerV1": "회원가입 v1",
+    "registerV2": "회원가입 v2",
+    "registerMultiSteps": "다단계 회원가입",
+    "verifyEmail": "이메일 인증",
+    "verifyEmailV1": "이메일 인증 v1",
+    "verifyEmailV2": "이메일 인증 v2",
+    "forgotPassword": "비밀번호 찾기",
+    "forgotPasswordV1": "비밀번호 찾기 v1",
+    "forgotPasswordV2": "비밀번호 찾기 v2",
+    "resetPassword": "비밀번호 재설정",
+    "resetPasswordV1": "비밀번호 재설정 v1",
+    "resetPasswordV2": "비밀번호 재설정 v2",
+    "twoSteps": "2단계 인증",
+    "twoStepsV1": "2단계 인증 v1",
+    "twoStepsV2": "2단계 인증 v2",
+    "wizardExamples": "마법사 예제",
+    "propertyListing": "부동산 목록",
+    "createDeal": "거래 생성",
+    "dialogExamples": "대화상자 예제",
+    "widgetExamples": "위젯 예제",
+    "basic": "기본",
+    "advanced": "고급",
+    "statistics": "통계",
+    "actions": "작업",
+    "formsAndTables": "폼 및 테이블",
+    "formLayouts": "폼 레이아웃",
+    "formValidation": "폼 검증",
+    "formWizard": "폼 마법사",
+    "reactTable": "React 테이블",
+    "formELements": "폼 요소",
+    "muiTables": "MUI 테이블",
+    "chartsMisc": "차트 및 기타",
+    "charts": "차트",
+    "recharts": "Recharts",
+    "apex": "Apex",
+    "foundation": "기초",
+    "components": "컴포넌트",
+    "menuExamples": "메뉴 예제",
+    "raiseSupport": "지원 요청",
+    "documentation": "문서",
+    "others": "기타",
+    "itemWithBadge": "배지가 있는 항목",
+    "externalLink": "외부 링크",
+    "menuLevels": "메뉴 레벨",
+    "menuLevel2": "메뉴 레벨 2",
+    "menuLevel3": "메뉴 레벨 3",
+    "disabledMenu": "비활성화된 메뉴"
+  },
+  "frontMenu": {
+    "home": "홈",
+    "products": "제품",
+    "services": "서비스",
+    "explore": "탐색",
+    "contact": "문의하기",
+    "manage": "관리",
+    "productMenu": {
+      "individual": "개인용",
+      "workspace": "워크스페이스",
+      "classroom": "인터랙티브 교실",
+      "onPremise": "온프레미스"
+    },
+    "exploreMenu": {
+      "blog": "VFi 블로그",
+      "templates": "템플릿",
+      "guide": "가이드",
+      "faq": "자주 묻는 질문"
+    }
+  },
+  "header": {
+    "login": "로그인"
+  },
+  "footer": {
+    "description": "VFiMeet – 원활하고 안전한 연결을 제공하며 업무, 교육 및 운영을 위한 효과적인 협업을 지원하는 포괄적인 온라인 회의 솔루션입니다.",
+    "installApp": "앱 설치",
+    "sections": {
+      "customerService": "고객 서비스",
+      "aboutUs": "회사 소개",
+      "contact": "연락처"
+    },
+    "services": {
+      "onlineMeeting": "온라인 회의",
+      "interactiveBoard": "인터랙티브 보드",
+      "latexKeyboard": "Latex 키보드",
+      "geometry": "기하학 및 그래프 그리기",
+      "chemicalEditor": "화학 구조 편집기",
+      "onlineHelp": "온라인 회의 도움말"
+    },
+    "aboutLinks": {
+      "blog": "VFi Meet 블로그",
+      "responsibility": "우리의 책임",
+      "terms": "서비스 약관",
+      "privacy": "개인정보 보호정책",
+      "contactInfo": "연락처 정보",
+      "introduction": "VFiMeet 소개"
+    },
+    "contactInfo": {
+      "address": "82 Dich Vong Hau, Cau Giay, 하노이",
+      "phone": "+84 945 866 410",
+      "email": "info@vfimeet.com"
+    },
+    "copyright": {
+      "year": "© ${year}, Made with",
+      "by": "by"
+    },
+    "social": {
+      "tiktok": "VFi Meet TikTok 페이지",
+      "facebook": "VFi Meet Facebook 페이지",
+      "twitter": "VFi Meet X (Twitter) 페이지",
+      "youtube": "VFi Meet YouTube 채널"
+    }
+  },
+  "home": {
+    "sections": {
+      "vfiMeet": "VFi Meet",
+      "business": "비즈니스",
+      "education": "교육",
+      "publicSector": "공공 부문",
+      "security": "보안",
+      "advanced": "고급 기능"
+    },
+    "hero": {
+      "title": "어디서나 연결, 언제든 업무",
+      "titleAuthenticated": "전문 회의 조직",
+      "subtitle": "비즈니스, 교육 및 공공 기관을 위한 종합 온라인 회의 플랫폼",
+      "subtitleAuthenticated": "유연한 온라인 회의 및 교육 솔루션, 어디서나 연결.",
+      "description": "VFi Meet은 종단 간 암호화를 통해 고품질 온라인 회의 경험을 제공하며, 원격 근무, 온라인 교육 및 디지털 교실 관리를 완벽하게 지원합니다.",
+      "descriptionGuest": "개인 및 조직을 위한 온라인 회의, 업무 및 교육 플랫폼",
+      "descriptionGuest2": "신용카드 불필요. 시간 제한 없음.",
+      "seoTitle": "VFi Meet – 온라인 회의, 디지털 교실 및 원격 근무 플랫폼",
+      "banner": "🎉 100% 무료 - 지금 등록하세요!",
+      "cta": {
+        "startMeeting": "지금 회의 시작",
+        "learnMore": "자세히 알아보기",
+        "watchDemo": "데모 보기",
+        "contactSales": "영업 문의",
+        "createAndJoin": "생성하고 즉시 참여",
+        "scheduleMeeting": "회의 예약",
+        "joinMeeting": "참여",
+        "register": "무료 등록",
+        "login": "로그인"
+      },
+      "input": {
+        "placeholder": "회의 코드 입력",
+        "tooltipTitle": "회의 참여 방법",
+        "tooltipDescription": "회의 링크 끝에 있는 고유 코드를 사용하여 즉시 회의에 참여하세요.",
+        "tooltipExample": "예: VFI-XXX-XXX-XXX"
+      },
+      "features": {
+        "free100": "100명까지 무료",
+        "hd": "HD 품질",
+        "secure": "종단 간 암호화",
+        "recording": "녹화 및 화면 공유"
+      },
+      "benefits": {
+        "stableMeetings": "안정적인 회의",
+        "interactiveClass": "인터랙티브 교실",
+        "efficientWork": "효율적인 업무",
+        "secureFlexible": "안전하고 유연",
+        "members100": "100+명",
+        "shareCollaborate": "공유 및 협업",
+        "recordNotes": "녹화 및 메모",
+        "noInstall": "설치 불필요"
+      },
+      "stats": {
+        "users": "사용자",
+        "meetings": "회의/일",
+        "uptime": "가동 시간",
+        "satisfaction": "만족도",
+        "userCount": "100만+",
+        "meetingCount": "1만+"
+      },
+      "meeting": {
+        "ongoing": "진행 중",
+        "upcoming": "예정",
+        "join": "참여",
+        "roomNotFound": "회의실",
+        "roomNotFoundSuffix": "이(가) 존재하지 않거나 삭제되었습니다"
+      }
+    },
+    "whyChoose": {
+      "title": "왜 VFi Meet를 선택해야 할까요?",
+      "description": "고성능 온라인 회의 플랫폼, 안정적인 운영 및 모든 조직 규모에 맞게 확장 가능.",
+      "imageAlt": "VFi Meet 인터페이스",
+      "features": [
+        "자체 인프라, 대규모 온라인 회의에 최적화",
+        "원활한 상호작용 경험, 콘텐츠에 집중",
+        "다양한 모델에 적합: 기업, 교육, 웨비나",
+        "조직 구조와 요구사항에 따른 유연한 커스터마이징",
+        "포괄적인 보안, 엄격한 데이터 관리",
+        "간소화된 인터페이스, 운영 효율성 우선"
+      ]
+    },
+    "business": {
+      "title": "기업을 위한 협업 및 업무 관리 플랫폼",
+      "description": "VFi Meet는 온라인 회의, 내부 커뮤니케이션, 업무 관리를 통합한 기업 협업 플랫폼으로, 조직의 효율적인 운영을 지원하고 도구 분산을 줄입니다.",
+      "imageAlt": "비즈니스 회의",
+      "features": [
+        "안정적인 온라인 회의, 기업 규모에 최적화",
+        "내부 커뮤니케이션 및 실시간 협업",
+        "통합 플랫폼에서의 업무 및 프로젝트 관리",
+        "조직 구조에 따른 중앙 집중식 관리",
+        "유연한 커스터마이징 및 확장, 내부 시스템과 쉽게 통합"
+      ]
+    },
+    "education": {
+      "title": "온라인 교실 플랫폼 및 상호작용 학습",
+      "description": "VFi Meet는 교육을 위한 온라인 교실 및 협업 플랫폼을 제공하여 통합 시스템에서 효과적으로 교육, 커뮤니케이션 및 교실 관리를 구성합니다.",
+      "imageAlt": "교육 플랫폼",
+      "features": [
+        "안정적인 온라인 교실, 소규모에서 대규모 교육 지원",
+        "다양한 상호작용 연습, 학생의 능동적 학습 장려",
+        "교육 - 강의 - 연습을 통합 플랫폼에서 연결",
+        "채점 및 학습 진도 추적, 정확한 평가 지원",
+        "중앙 집중식 관리 및 유연한 확장, 다양한 교육 모델에 적합"
+      ]
+    },
+    "publicSector": {
+      "title": "공공 부문을 위한 디지털 회의실",
+      "description": "VFi Meet는 정부 기관을 위한 안전하고 보안이 강화된 디지털 회의실 플랫폼을 제공하며, 유연한 배포, AI 통합 및 내부 시스템과의 연결을 지원합니다.",
+      "imageAlt": "공공 부문",
+      "features": [
+        "안전성, 정보 보안 보장, 국가 관리 요구사항 충족",
+        "온프레미스 또는 프라이빗 클라우드 배포, 각 조직의 인프라에 적합",
+        "대규모 회의 및 온라인 수업 지원, 안정적이고 지속적",
+        "내부 시스템 연결 및 통합, 데이터 및 업무 동기화",
+        "AI 지원 회의 관리 및 콘텐츠 요약"
+      ]
+    },
+    "security": {
+      "title": "최대 보안 및 개인 정보 보호",
+      "description": "VFi Meet는 사용자 데이터와 개인 정보 보호에 중점을 두고 최신 보안 메커니즘을 적용하며 시스템 운영에서 국제 표준을 준수합니다.",
+      "imageAlt": "보안",
+      "features": [
+        "전송 중 데이터 암호화로 회의 및 교실 콘텐츠 보호",
+        "다중 인증(MFA)으로 시스템 액세스 보안 강화",
+        "역할 기반 액세스 제어(RBAC)로 사용자 및 권한 관리",
+        "GDPR 등 데이터 보호 표준 및 관련 규정 준수",
+        "시스템 모니터링 및 검사를 위한 감사 로그"
+      ]
+    },
+    "advanced": {
+      "title": "모든 요구를 충족하는 고급 기능",
+      "description": "다국어 지원, SSO 통합 및 무제한 사용자 정의를 위한 개방형 API.",
+      "features": {
+        "api": {
+          "badge": "통합",
+          "title": "유연한 개방형 API",
+          "description": "REST API 및 Webhook를 통해 기존 시스템과 쉽게 통합."
+        },
+        "whiteLabel": {
+          "badge": "사용자 정의",
+          "title": "화이트 라벨 솔루션",
+          "description": "로고, 색상 및 사용자 정의 도메인으로 브랜드에 맞게 인터페이스를 완전히 사용자 정의."
+        },
+        "ai": {
+          "badge": "인공 지능",
+          "title": "스마트 AI 기능",
+          "description": "자동 자막, AI 회의 요약 및 실시간 다국어 번역.",
+          "items": ["AI 자막", "요약", "번역", "메모"]
+        }
+      }
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "VFi Meet에 대한 일반적인 질문에 대한 답변 찾기",
+      "questions": [
+        {
+          "question": "VFi Meet에 회의 시간 제한이 있나요?",
+          "answer": "아니요. VFi Meet는 무료 계정에서도 회의 시간을 제한하지 않습니다. 자동 세션 종료 없이 필요한 만큼 회의나 온라인 수업을 개최할 수 있습니다."
+        },
+        {
+          "question": "온라인 회의 앱을 설치해야 하나요?",
+          "answer": "아니요. 컴퓨터, 휴대폰 또는 태블릿의 웹 브라우저에서 회의 링크를 열기만 하면 직접 회의에 참여할 수 있습니다."
+        },
+        {
+          "question": "VFi Meet는 회의 녹화를 지원하나요?",
+          "answer": "네. VFi Meet는 나중에 확인하기 위해 회의를 녹화할 수 있습니다. 비디오는 시스템에 저장되며 필요할 때 다른 사람과 공유하거나 권한을 부여할 수 있습니다."
+        },
+        {
+          "question": "참가자가 회의실에 참여하려면 계정이 필요한가요?",
+          "answer": "필수는 아닙니다. 참가자는 로그인하지 않고 링크나 룸 코드를 사용하여 회의실에 참여할 수 있습니다. 그러나 로그인하면 더 많은 기능에 액세스하고 회의를 더 편리하게 관리할 수 있습니다."
+        },
+        {
+          "question": "휴대폰과 iPad에서 VFi Meet를 사용할 수 있나요?",
+          "answer": "네. VFi Meet는 휴대폰과 iPad에서 잘 작동합니다. 브라우저에서 회의 링크를 열기만 하면 추가 소프트웨어를 설치하지 않고도 즉시 참여할 수 있습니다."
+        },
+        {
+          "question": "VFi Meet는 온라인 교육에 적합한가요?",
+          "answer": "네. VFi Meet는 온라인 교육에 매우 적합합니다. 교사는 온라인 수업을 개최하고, 학생을 관리하고, 일정을 조정하고, 비디오, 화면 공유 또는 화이트보드를 통해 직접 가르칠 수 있습니다. 시스템은 학생들이 나중에 확인할 수 있도록 수업 녹화도 지원합니다."
+        },
+        {
+          "question": "VFi Meet는 수업용 화이트보드를 지원하나요?",
+          "answer": "네. VFi Meet는 온라인 화이트보드를 지원하여 교사가 수업을 발표하고, 공식을 작성하고, 교실에서 바로 콘텐츠를 설명하는 데 도움을 줍니다."
+        },
+        {
+          "question": "온라인과 오프라인 혼합 수업을 개최할 수 있나요?",
+          "answer": "네. VFi Meet는 온라인과 오프라인 혼합 수업을 개최할 수 있습니다. 교실에 추가 카메라를 공유하여 온라인 학생들이 실시간으로 수업과 교실 활동을 따라갈 수 있도록 할 수 있습니다."
+        },
+        {
+          "question": "VFi Meet는 회의 메모를 지원하나요?",
+          "answer": "네. VFi Meet는 AI를 통합하여 콘텐츠 전사, 언어 번역 및 자동 회의 요약과 같은 회의를 지원하여 참가자가 중요한 콘텐츠를 쉽게 따라가고 확인할 수 있도록 합니다."
+        },
+        {
+          "question": "다른 사람을 회의에 초대하려면 어떻게 해야 하나요?",
+          "answer": "회의 링크를 공유하거나, VFi Meet에서 직접 이메일 초대를 보내거나, 회의 코드를 공유할 수 있습니다. 초대받은 사람은 링크를 클릭하거나 코드를 입력하기만 하면 참여할 수 있습니다."
+        }
+      ]
+    },
+    "cta": {
+      "title": "오늘 시작하세요",
+      "description": "무료 계정으로도 VFi Meet를 사용하여 회의나 온라인 수업을 개최할 수 있습니다.",
+      "keyFeatures": [
+        "신용카드 불필요",
+        "단 30초만에 가입",
+        "100% 무료"
+      ],
+      "freePlan": {
+        "title": "무료 플랜 포함 사항:",
+        "features": [
+          "최대 120분 회의 세션",
+          "최대 100명의 참가자",
+          "안정적이고 안전한 연결",
+          "브라우저에서 직접 참여, 설치 불필요"
+        ]
+      },
+      "additionalInfo": "그리고 VFi Meet에서 발견을 기다리는 많은 다른 유용한 기능들.",
+      "buttons": {
+        "register": "지금 무료 가입",
+        "contact": "지원 문의"
+      },
+      "supportMessage": "지원이나 상담이 필요하신가요? 지금 메시지를 보내주세요. VFi Meet 팀이 빠르고 효과적으로 시작할 수 있도록 항상 도와드릴 준비가 되어 있습니다."
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "문의",
+      "title": "연결",
+      "titleSuffix": "VFi Meet와 함께",
+      "description": "우리는 항상 여러분의 이야기를 듣고 지원할 준비가 되어 있습니다. VFi Meet 온라인 회의 솔루션에 대한 자세한 상담을 받으려면 정보를 남겨주세요",
+      "buttons": {
+        "contact": "지금 문의하기",
+        "about": "회사 소개"
+      }
+    },
+    "form": {
+      "title": "메시지 보내기",
+      "description": "아래 정보를 입력하시면 24시간 이내에 답변드리겠습니다",
+      "fields": {
+        "firstName": "이름",
+        "lastName": "성",
+        "email": "이메일",
+        "phone": "전화번호",
+        "company": "회사",
+        "subject": "제목",
+        "message": "메시지",
+        "firstNamePlaceholder": "이름을 입력하세요",
+        "lastNamePlaceholder": "성을 입력하세요",
+        "emailPlaceholder": "your.email@example.com",
+        "phonePlaceholder": "+84 xxx xxx xxx",
+        "companyPlaceholder": "회사명",
+        "subjectPlaceholder": "제목 선택",
+        "messagePlaceholder": "메시지를 입력하세요..."
+      },
+      "subjects": {
+        "general": "일반 문의",
+        "sales": "영업 상담",
+        "support": "기술 지원",
+        "partnership": "파트너십",
+        "other": "기타"
+      },
+      "validation": {
+        "required": "이 항목은 필수입니다",
+        "emailInvalid": "유효하지 않은 이메일 주소",
+        "phoneInvalid": "유효하지 않은 전화번호"
+      },
+      "submit": "메시지 보내기",
+      "submitting": "전송 중...",
+      "success": "성공!",
+      "successMessage": "문의해 주셔서 감사합니다. 최대한 빨리 답변드리겠습니다.",
+      "error": "오류가 발생했습니다. 나중에 다시 시도해 주세요."
+    },
+    "info": {
+      "title": "연락처 정보",
+      "description": "우리와 연결할 수 있는 여러 방법이 있습니다. 가장 적합한 방법을 선택하세요",
+      "socialTitle": "우리와 연결하세요",
+      "items": {
+        "office": {
+          "title": "사무실",
+          "address": "5층, A동, ABC 거리 123번지",
+          "city": "하노이, 베트남"
+        },
+        "email": {
+          "title": "이메일",
+          "description": "이메일로 문의하세요",
+          "general": "info@vfimeet.vn",
+          "support": "support@vfimeet.vn"
+        },
+        "phone": {
+          "title": "핫라인",
+          "description": "24/7 언제 어디서나 지원",
+          "hotline": "+84 24 3999 9999",
+          "mobile": "+84 912 345 678"
+        },
+        "hours": {
+          "title": "영업 시간",
+          "weekday": "월요일 - 금요일: 8:00 - 18:00",
+          "weekend": "토요일: 8:00 - 12:00"
+        }
+      }
+    },
+    "about": {
+      "badge": "회사 소개",
+      "title": "VFi Meet - 최고의 온라인 회의 솔루션",
+      "description": "VFi Meet는 최고의 전문가들이 개발한 온라인 회의 플랫폼으로, 최대한의 보안과 함께 고품질 온라인 회의 경험을 제공하는 것을 약속합니다.",
+      "stats": {
+        "users": "사용자",
+        "meetings": "회의/일",
+        "countries": "국가",
+        "satisfaction": "만족도"
+      },
+      "values": {
+        "title": "핵심 가치",
+        "items": [
+          {
+            "title": "품질",
+            "description": "최고의 서비스 품질에 대한 약속"
+          },
+          {
+            "title": "보안",
+            "description": "절대적인 정보 보안"
+          },
+          {
+            "title": "혁신",
+            "description": "기술의 지속적인 개선"
+          },
+          {
+            "title": "지원",
+            "description": "24/7 고객 지원"
+          }
+        ]
+      }
+    },
+    "map": {
+      "title": "사무실 위치",
+      "description": "우리 사무실을 방문하세요",
+      "getDirections": "길 찾기"
+    }
+  },
+  "vfiPro": {
+    "hero": {
+      "badge": "전문 개인을 위한",
+      "title": "화상 회의",
+      "titleHighlight": "전문적인",
+      "titleSuffix": "개인용",
+      "description": "안정적인 품질, 고급 기능, 향상된 지원 도구로 전문 화상 회의 경험을 업그레이드하세요.",
+      "benefits": [
+        "24시간 연속 회의",
+        "풀HD 녹화",
+        "멀티 플랫폼 라이브 스트림",
+        "고급 회의 도구"
+      ],
+      "cta": {
+        "trial": "무료 체험 시작",
+        "features": "기능 보기"
+      },
+      "trustNote": "✓ 신용카드 불필요 • 언제든지 취소 가능",
+      "stats": {
+        "users": "사용자",
+        "rating": "평점",
+        "support": "24/7 지원"
+      }
+    },
+    "features": {
+      "title": "주요 기능",
+      "subtitle": "전문 화상 회의를 위한 강력한 도구",
+      "items": [
+        {
+          "title": "무제한 회의",
+          "description": "최대 24시간 동안 중단 없이 연속 회의 진행"
+        },
+        {
+          "title": "고품질 녹화",
+          "description": "풀HD 품질로 전체 회의 녹화, 쉬운 저장 및 공유"
+        },
+        {
+          "title": "멀티 플랫폼 라이브 스트림",
+          "description": "YouTube, Facebook 등 여러 플랫폼에 동시 라이브 스트리밍"
+        },
+        {
+          "title": "고급 화이트보드",
+          "description": "전문적인 그리기, 주석 및 온라인 협업 도구"
+        },
+        {
+          "title": "참가자 관리",
+          "description": "발언권 제어, 그룹 분할 및 브레이크아웃 룸 관리"
+        },
+        {
+          "title": "다양한 통합",
+          "description": "Google Drive, Dropbox 및 인기 작업 도구와 연결"
+        }
+      ]
+    },
+    "target": {
+      "title": "누가 VFi Pro를 사용해야 하나요?",
+      "subtitle": "VFi Pro는 정기적으로 회의, 교육 또는 온라인 교류를 조직하고 안정적인 품질과 전문적인 회의 도구가 필요한 개인, 강사, 전문가, 프리랜서 및 소규모 작업 그룹에 적합합니다.",
+      "audiences": [
+        {
+          "title": "교사 / 강사",
+          "description": "온라인 교육, 화면 공유 및 대화형 화이트보드"
+        },
+        {
+          "title": "프리랜서 / 전문가",
+          "description": "컨설팅, 교육 또는 온라인으로 고객과 회의"
+        },
+        {
+          "title": "소규모 작업 그룹",
+          "description": "그룹 회의 조직, 업무 교류 및 원격 협업"
+        },
+        {
+          "title": "교육 / 워크샵",
+          "description": "많은 사람들을 위한 공유 세션 또는 온라인 교육 조직"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "요금제 비교",
+      "subtitle": "필요에 맞는 요금제 선택",
+      "free": {
+        "name": "무료",
+        "price": "₩0",
+        "period": "영구",
+        "features": [
+          "최대 40분 회의",
+          "최대 100명 참가",
+          "HD 품질",
+          "기본 화이트보드",
+          "텍스트 채팅"
+        ],
+        "cta": "무료 사용"
+      },
+      "pro": {
+        "name": "VFi Pro",
+        "price": "₩12,000",
+        "period": "월",
+        "popular": "가장 인기",
+        "features": [
+          "24시간 무제한 회의",
+          "최대 100명 참가",
+          "풀HD 녹화",
+          "멀티 플랫폼 라이브 스트림",
+          "고급 화이트보드",
+          "전문 회의 도구",
+          "우선 지원"
+        ],
+        "cta": "무료 체험 시작"
+      }
+    },
+    "cta": {
+      "title": "업그레이드할 준비가 되셨나요?",
+      "description": "오늘 VFi Pro를 사용해 보세요. 신용카드 불필요, 언제든지 취소 가능.",
+      "button": "14일 무료 체험",
+      "note": "신용카드 불필요"
+    }
+  }
+}

@@ -1,0 +1,678 @@
+{
+  "navigation": {
+    "dashboards": "Tổng quan",
+    "crm": "CRM",
+    "home": "Trang chủ",
+    "analytics": "Phân tích",
+    "eCommerce": "Thương mại điện tử",
+    "academy": "Học viện",
+    "logistics": "Logistics",
+    "frontPages": "Trang chủ",
+    "landing": "Trang đích",
+    "pricing": "Bảng giá",
+    "payment": "Thanh toán",
+    "checkout": "Thanh toán",
+    "helpCenter": "Trung tâm trợ giúp",
+    "appsPages": "Ứng dụng & Trang",
+    "apps": "Ứng dụng",
+    "dashboard": "Tổng quan",
+    "products": "Sản phẩm",
+    "list": "Danh sách",
+    "add": "Thêm",
+    "category": "Danh mục",
+    "orders": "Đơn hàng",
+    "details": "Chi tiết",
+    "customers": "Khách hàng",
+    "manageReviews": "Quản lý đánh giá",
+    "referrals": "Giới thiệu",
+    "settings": "Cài đặt",
+    "myCourses": "Khóa học của tôi",
+    "courseDetails": "Chi tiết khóa học",
+    "fleet": "Đội xe",
+    "email": "Email",
+    "chat": "Trò chuyện",
+    "calendar": "Lịch",
+    "kanban": "Kanban",
+    "invoice": "Hóa đơn",
+    "preview": "Xem trước",
+    "edit": "Chỉnh sửa",
+    "user": "Người dùng",
+    "view": "Xem",
+    "rolesPermissions": "Vai trò & Quyền",
+    "roles": "Vai trò",
+    "permissions": "Quyền",
+    "pages": "Trang",
+    "userProfile": "Hồ sơ người dùng",
+    "accountSettings": "Cài đặt tài khoản",
+    "faq": "Câu hỏi thường gặp",
+    "miscellaneous": "Khác",
+    "comingSoon": "Sắp ra mắt",
+    "underMaintenance": "Đang bảo trì",
+    "pageNotFound404": "Không tìm thấy trang - 404",
+    "notAuthorized401": "Không có quyền - 401",
+    "authPages": "Trang xác thực",
+    "login": "Đăng nhập",
+    "loginV1": "Đăng nhập v1",
+    "loginV2": "Đăng nhập v2",
+    "register": "Đăng ký",
+    "registerV1": "Đăng ký v1",
+    "registerV2": "Đăng ký v2",
+    "registerMultiSteps": "Đăng ký nhiều bước",
+    "verifyEmail": "Xác minh email",
+    "verifyEmailV1": "Xác minh email v1",
+    "verifyEmailV2": "Xác minh email v2",
+    "forgotPassword": "Quên mật khẩu",
+    "forgotPasswordV1": "Quên mật khẩu v1",
+    "forgotPasswordV2": "Quên mật khẩu v2",
+    "resetPassword": "Đặt lại mật khẩu",
+    "resetPasswordV1": "Đặt lại mật khẩu v1",
+    "resetPasswordV2": "Đặt lại mật khẩu v2",
+    "twoSteps": "Xác thực 2 bước",
+    "twoStepsV1": "Xác thực 2 bước v1",
+    "twoStepsV2": "Xác thực 2 bước v2",
+    "wizardExamples": "Ví dụ wizard",
+    "propertyListing": "Danh sách bất động sản",
+    "createDeal": "Tạo giao dịch",
+    "dialogExamples": "Ví dụ hộp thoại",
+    "widgetExamples": "Ví dụ widget",
+    "basic": "Cơ bản",
+    "advanced": "Nâng cao",
+    "statistics": "Thống kê",
+    "actions": "Hành động",
+    "formsAndTables": "Biểu mẫu & Bảng",
+    "formLayouts": "Bố cục biểu mẫu",
+    "formValidation": "Xác thực biểu mẫu",
+    "formWizard": "Wizard biểu mẫu",
+    "reactTable": "Bảng React",
+    "formELements": "Phần tử biểu mẫu",
+    "muiTables": "Bảng MUI",
+    "chartsMisc": "Biểu đồ & Khác",
+    "charts": "Biểu đồ",
+    "recharts": "Recharts",
+    "apex": "Apex",
+    "foundation": "Nền tảng",
+    "components": "Thành phần",
+    "menuExamples": "Ví dụ menu",
+    "raiseSupport": "Yêu cầu hỗ trợ",
+    "documentation": "Tài liệu",
+    "others": "Khác",
+    "itemWithBadge": "Mục với huy hiệu",
+    "externalLink": "Liên kết ngoài",
+    "menuLevels": "Cấp menu",
+    "menuLevel2": "Cấp menu 2",
+    "menuLevel3": "Cấp menu 3",
+    "disabledMenu": "Menu vô hiệu hóa"
+  },
+  "frontMenu": {
+    "home": "TRANG CHỦ",
+    "products": "SẢN PHẨM",
+    "services": "DỊCH VỤ",
+    "explore": "KHÁM PHÁ",
+    "contact": "LIÊN HỆ",
+    "manage": "QUẢN LÝ",
+    "productMenu": {
+      "individual": "Dành cho cá nhân",
+      "workspace": "Không gian làm việc",
+      "classroom": "Lớp học tương tác",
+      "onPremise": "Tổ chức công"
+    },
+    "exploreMenu": {
+      "blog": "Blog VFi",
+      "templates": "Mẫu tài liệu",
+      "guide": "Hướng dẫn",
+      "faq": "Hỏi đáp"
+    }
+  },
+  "header": {
+    "login": "Đăng nhập"
+  },
+  "footer": {
+    "description": "VFiMeet – Giải pháp họp trực tuyến toàn diện, mang đến khả năng kết nối mượt mà, an toàn và hỗ trợ cộng tác hiệu quả cho làm việc, đào tạo và điều hành.",
+    "installApp": "Cài đặt ứng dụng",
+    "sections": {
+      "customerService": "Dịch vụ khách hàng",
+      "aboutUs": "Về chúng tôi",
+      "contact": "Liên hệ"
+    },
+    "services": {
+      "onlineMeeting": "Họp trực tuyến",
+      "interactiveBoard": "Bảng tương tác",
+      "latexKeyboard": "Bàn phím Latex",
+      "geometry": "Vẽ hình học & đồ thị",
+      "chemicalEditor": "Vẽ cấu trúc hóa học",
+      "onlineHelp": "Trợ giúp họp Online"
+    },
+    "aboutLinks": {
+      "blog": "Blog VFi Meet",
+      "responsibility": "Trách nhiệm của chúng tôi",
+      "terms": "Điều khoản dịch vụ",
+      "privacy": "Chính sách bảo mật",
+      "contactInfo": "Thông tin liên hệ",
+      "introduction": "Giới thiệu VFiMeet"
+    },
+    "contactInfo": {
+      "address": "82 Dịch Vọng Hậu, Cầu Giấy, Hà Nội",
+      "phone": "0945 866 410",
+      "email": "info@vfimeet.com"
+    },
+    "copyright": {
+      "year": "© ${year}, Made with",
+      "by": "by"
+    },
+    "social": {
+      "tiktok": "Trang TikTok của VFi Meet",
+      "facebook": "Trang Facebook của VFi Meet",
+      "twitter": "Trang X (Twitter) của VFi Meet",
+      "youtube": "Kênh YouTube của VFi Meet"
+    }
+  },
+  "home": {
+    "sections": {
+      "vfiMeet": "VFi Meet",
+      "business": "Doanh nghiệp",
+      "education": "Giáo dục",
+      "publicSector": "Tổ chức công",
+      "security": "Bảo mật",
+      "advanced": "Nâng cao"
+    },
+    "hero": {
+      "title": "Kết nối mọi nơi, làm việc mọi lúc",
+      "titleAuthenticated": "Tổ chức cuộc họp chuyên nghiệp",
+      "subtitle": "Nền tảng họp trực tuyến toàn diện cho doanh nghiệp, giáo dục và tổ chức công",
+      "subtitleAuthenticated": "Giải pháp họp & giảng dạy trực tuyến linh hoạt, kết nối ở bất kỳ nơi đâu.",
+      "description": "VFi Meet mang đến trải nghiệm họp trực tuyến chất lượng cao với bảo mật end-to-end, hỗ trợ đầy đủ tính năng cho làm việc từ xa, đào tạo trực tuyến và quản lý lớp học số.",
+      "descriptionGuest": "Nền tảng họp, làm việc và đào tạo trực tuyến cho cá nhân & tổ chức",
+      "descriptionGuest2": "Không cần thẻ tín dụng. Không giới hạn thời gian.",
+      "seoTitle": "VFi Meet – Nền tảng họp trực tuyến, lớp học số & làm việc online",
+      "banner": "🎉 MIỄN PHÍ 100% - ĐĂNG KÝ NGAY!",
+      "cta": {
+        "startMeeting": "Bắt đầu họp ngay",
+        "learnMore": "Tìm hiểu thêm",
+        "watchDemo": "Xem demo",
+        "contactSales": "Liên hệ bán hàng",
+        "createAndJoin": "Tạo và họp ngay",
+        "scheduleMeeting": "Tạo lịch họp",
+        "joinMeeting": "THAM GIA",
+        "register": "Đăng ký miễn phí",
+        "login": "Đăng nhập"
+      },
+      "input": {
+        "placeholder": "Nhập mã cuộc họp",
+        "tooltipTitle": "Cách tham gia cuộc họp",
+        "tooltipDescription": "Tham gia một cuộc họp ngay bằng cách sử dụng mã duy nhất ở phần cuối của đường liên kết đến cuộc họp.",
+        "tooltipExample": "Ví dụ: VFI-XXX-XXX-XXX"
+      },
+      "features": {
+        "free100": "Miễn phí 100 người",
+        "hd": "Chất lượng HD",
+        "secure": "Bảo mật end-to-end",
+        "recording": "Ghi hình & chia sẻ màn hình"
+      },
+      "benefits": {
+        "stableMeetings": "Cuộc họp ổn định",
+        "interactiveClass": "Lớp học tương tác",
+        "efficientWork": "Làm việc hiệu quả",
+        "secureFlexible": "Bảo mật, linh hoạt",
+        "members100": "100+ thành viên",
+        "shareCollaborate": "Chia sẻ & cộng tác",
+        "recordNotes": "Ghi hình & ghi chú",
+        "noInstall": "Không cần cài đặt"
+      },
+      "stats": {
+        "users": "người dùng",
+        "meetings": "cuộc họp/ngày",
+        "uptime": "uptime",
+        "satisfaction": "hài lòng",
+        "userCount": "1M+",
+        "meetingCount": "10k+"
+      },
+      "meeting": {
+        "ongoing": "Đang diễn ra",
+        "upcoming": "Sắp diễn ra",
+        "join": "Tham gia",
+        "roomNotFound": "Phòng",
+        "roomNotFoundSuffix": "không tồn tại hoặc đã bị xoá"
+      }
+    },
+    "whyChoose": {
+      "title": "Tại sao chọn VFi Meet?",
+      "description": "Nền tảng hội nghị trực tuyến hiệu năng cao, vận hành ổn định và sẵn sàng mở rộng theo mọi quy mô tổ chức.",
+      "imageAlt": "Giao diện VFi Meet",
+      "features": [
+        "Hạ tầng tự chủ, tối ưu cho họp trực tuyến quy mô lớn",
+        "Trải nghiệm tương tác mượt mà, tập trung vào nội dung",
+        "Phù hợp đa mô hình: doanh nghiệp, đào tạo, hội thảo",
+        "Tùy biến linh hoạt theo cấu trúc và nhu cầu tổ chức",
+        "Bảo mật toàn diện, kiểm soát dữ liệu chặt chẽ",
+        "Giao diện tinh gọn, ưu tiên hiệu quả vận hành"
+      ]
+    },
+    "business": {
+      "title": "Nền tảng cộng tác & điều hành công việc cho doanh nghiệp",
+      "description": "VFi Meet là nền tảng cộng tác doanh nghiệp tích hợp họp trực tuyến, trao đổi nội bộ và quản lý công việc trên một hệ thống thống nhất, giúp tổ chức vận hành hiệu quả và giảm phân mảnh công cụ.",
+      "imageAlt": "Họp doanh nghiệp",
+      "features": [
+        "Họp trực tuyến ổn định, tối ưu cho quy mô doanh nghiệp",
+        "Kết nối trao đổi nội bộ và cộng tác thời gian thực",
+        "Quản lý công việc và dự án trên một nền tảng thống nhất",
+        "Quản trị tập trung theo cấu trúc tổ chức",
+        "Tùy biến & mở rộng linh hoạt, dễ tích hợp hệ thống nội bộ"
+      ]
+    },
+    "education": {
+      "title": "Nền tảng lớp học trực tuyến & học tập tương tác",
+      "description": "VFi Meet cung cấp nền tảng lớp học trực tuyến và cộng tác dành cho giáo dục, giúp tổ chức dạy học, trao đổi và quản lý lớp học hiệu quả trên một hệ thống thống nhất.",
+      "imageAlt": "Nền tảng giáo dục",
+      "features": [
+        "Lớp học trực tuyến ổn định, đáp ứng đào tạo từ lớp nhỏ đến quy mô lớn",
+        "Bài tập tương tác đa dạng, khuyến khích học viên học chủ động",
+        "Kết nối giảng dạy – bài giảng – bài tập trên một nền tảng thống nhất",
+        "Chấm điểm & theo dõi tiến độ học tập, hỗ trợ đánh giá chính xác",
+        "Quản lý tập trung & mở rộng linh hoạt, phù hợp nhiều mô hình đào tạo"
+      ]
+    },
+    "publicSector": {
+      "title": "Phòng họp số cho tổ chức công",
+      "description": "VFi Meet cung cấp nền tảng phòng họp số an toàn và bảo mật cho cơ quan nhà nước, hỗ trợ triển khai linh hoạt, tích hợp AI và kết nối với các hệ thống nội bộ.",
+      "imageAlt": "Tổ chức công",
+      "features": [
+        "Đảm bảo an toàn, bảo mật thông tin, đáp ứng yêu cầu quản lý nhà nước",
+        "Triển khai on-premise hoặc cloud riêng, phù hợp hạ tầng từng đơn vị",
+        "Hỗ trợ hội nghị, lớp học trực tuyến quy mô lớn, ổn định, liên tục",
+        "Kết nối, tích hợp hệ thống nội bộ, đồng bộ dữ liệu và nghiệp vụ",
+        "AI hỗ trợ điều hành và tổng hợp nội dung cuộc họp"
+      ]
+    },
+    "security": {
+      "title": "Bảo mật và quyền riêng tư tối đa",
+      "description": "VFi Meet chú trọng bảo vệ dữ liệu và quyền riêng tư của người dùng, áp dụng các cơ chế bảo mật hiện đại và tuân thủ các tiêu chuẩn quốc tế trong quá trình vận hành hệ thống.",
+      "imageAlt": "Bảo mật",
+      "features": [
+        "Mã hóa dữ liệu truyền tải giúp bảo vệ nội dung cuộc họp và lớp học",
+        "Xác thực đa yếu tố (MFA) tăng cường an toàn truy cập hệ thống",
+        "Phân quyền truy cập theo vai trò (RBAC) kiểm soát người dùng và quyền hạn",
+        "Tuân thủ các tiêu chuẩn bảo vệ dữ liệu như GDPR và các quy định liên quan",
+        "Nhật ký hoạt động (Audit Log) phục vụ kiểm tra và giám sát hệ thống"
+      ]
+    },
+    "advanced": {
+      "title": "Tính năng nâng cao đáp ứng mọi nhu cầu",
+      "description": "Hỗ trợ đa ngôn ngữ, tích hợp SSO và API mở cho khả năng tùy chỉnh không giới hạn.",
+      "features": {
+        "api": {
+          "badge": "Tích hợp",
+          "title": "API mở linh hoạt",
+          "description": "Tích hợp dễ dàng với hệ thống hiện có thông qua REST API và Webhook."
+        },
+        "whiteLabel": {
+          "badge": "Tùy chỉnh",
+          "title": "White Label Solution",
+          "description": "Tùy chỉnh hoàn toàn giao diện theo thương hiệu của bạn với logo, màu sắc và domain riêng."
+        },
+        "ai": {
+          "badge": "Trí tuệ nhân tạo",
+          "title": "Tính năng AI thông minh",
+          "description": "Phụ đề tự động, tóm tắt cuộc họp bằng AI và phiên dịch đa ngôn ngữ thời gian thực.",
+          "items": ["Phụ đề AI", "Tóm tắt", "Phiên dịch", "Ghi chú"]
+        }
+      }
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "description": "Tìm câu trả lời cho những thắc mắc phổ biến về VFi Meet",
+      "questions": [
+        {
+          "question": "VFi Meet có giới hạn thời gian họp không?",
+          "answer": "Không. VFi Meet không giới hạn thời gian họp, kể cả với tài khoản miễn phí. Bạn có thể tổ chức cuộc họp hoặc lớp học trực tuyến kéo dài bao lâu tùy nhu cầu mà không bị tự động ngắt phiên."
+        },
+        {
+          "question": "Tôi có cần cài đặt ứng dụng họp trực tuyến không?",
+          "answer": "Không. Bạn có thể tham gia cuộc họp trực tiếp từ trình duyệt web trên máy tính, điện thoại hoặc máy tính bảng chỉ bằng cách mở link cuộc họp."
+        },
+        {
+          "question": "VFi Meet có hỗ trợ ghi hình cuộc họp không?",
+          "answer": "Có. VFi Meet cho phép ghi hình cuộc họp để xem lại sau. Video được lưu trữ trên hệ thống và bạn có thể chia sẻ hoặc phân quyền cho người khác cùng xem lại khi cần."
+        },
+        {
+          "question": "Người tham gia có cần tài khoản để vào phòng họp không?",
+          "answer": "Không bắt buộc. Người tham gia có thể vào phòng họp bằng link hoặc mã phòng mà không cần đăng nhập. Tuy nhiên, khi đăng nhập tài khoản, bạn có thể sử dụng thêm nhiều tính năng và quản lý cuộc họp thuận tiện hơn."
+        },
+        {
+          "question": "Tôi có thể sử dụng VFi Meet trên điện thoại, iPad không?",
+          "answer": "Có. VFi Meet hoạt động tốt trên điện thoại và iPad. Bạn chỉ cần mở link cuộc họp trên trình duyệt và tham gia ngay mà không cần cài đặt thêm phần mềm."
+        },
+        {
+          "question": "VFi Meet có phù hợp cho dạy học trực tuyến không?",
+          "answer": "Có. VFi Meet rất phù hợp cho dạy học trực tuyến. Giáo viên có thể tổ chức lớp học online, quản lý học viên, sắp xếp lịch học và giảng dạy trực tiếp thông qua video, chia sẻ màn hình hoặc bảng viết. Hệ thống cũng hỗ trợ ghi hình bài giảng để học viên có thể xem lại khi cần."
+        },
+        {
+          "question": "VFi Meet có hỗ trợ bảng viết cho lớp học không?",
+          "answer": "Có. VFi Meet hỗ trợ bảng viết trực tuyến giúp giáo viên trình bày bài giảng, viết công thức hoặc minh họa nội dung ngay trong lớp học."
+        },
+        {
+          "question": "Tôi có thể tổ chức lớp học kết hợp online và offline không?",
+          "answer": "Có. VFi Meet cho phép tổ chức lớp học kết hợp online và offline. Bạn có thể chia sẻ thêm camera trong lớp học để học viên tham gia trực tuyến theo dõi bài giảng và hoạt động trong lớp theo thời gian thực."
+        },
+        {
+          "question": "VFi Meet có hỗ trợ ghi chú cuộc họp không?",
+          "answer": "Có. VFi Meet tích hợp AI hỗ trợ cuộc họp như phiên âm nội dung, phiên dịch ngôn ngữ và tự động tóm tắt cuộc họp, giúp người tham gia dễ dàng theo dõi và xem lại các nội dung quan trọng."
+        },
+        {
+          "question": "Làm thế nào để mời người khác tham gia cuộc họp?",
+          "answer": "Bạn có thể chia sẻ link cuộc họp, gửi email mời trực tiếp từ VFi Meet, hoặc chia sẻ mã cuộc họp. Người được mời chỉ cần click vào link hoặc nhập mã để tham gia."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bắt đầu ngay hôm nay",
+      "description": "Ngay cả với tài khoản miễn phí, bạn đã có thể sử dụng VFi Meet để tổ chức cuộc họp hoặc lớp học trực tuyến.",
+      "keyFeatures": [
+        "Không cần thẻ tín dụng",
+        "Đăng ký chỉ trong 30 giây",
+        "Miễn phí 100%"
+      ],
+      "freePlan": {
+        "title": "Gói miễn phí bao gồm:",
+        "features": [
+          "Phiên họp lên tới 120 phút",
+          "Tối đa 100 người tham gia",
+          "Kết nối ổn định và an toàn",
+          "Tham gia trực tiếp trên trình duyệt, không cần cài đặt"
+        ]
+      },
+      "additionalInfo": "Và nhiều tính năng hữu ích khác đang chờ bạn khám phá trên VFi Meet.",
+      "buttons": {
+        "register": "Đăng ký miễn phí ngay",
+        "contact": "Liên hệ hỗ trợ"
+      },
+      "supportMessage": "Cần hỗ trợ hoặc tư vấn? Hãy nhắn tin cho chúng tôi ngay, đội ngũ VFi Meet luôn sẵn sàng giúp bạn bắt đầu nhanh chóng và hiệu quả."
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Liên Hệ",
+      "title": "Kết Nối",
+      "titleSuffix": "Với VFi Meet",
+      "description": "Chúng tôi luôn sẵn sàng lắng nghe và hỗ trợ bạn. Hãy để lại thông tin để được tư vấn chi tiết về giải pháp họp trực tuyến VFi Meet",
+      "buttons": {
+        "contact": "Liên Hệ Ngay",
+        "about": "Về Chúng Tôi"
+      }
+    },
+    "form": {
+      "badge": "Gửi Tin Nhắn",
+      "title": "Form Liên Hệ",
+      "description": "Vui lòng điền thông tin bên dưới. Chúng tôi sẽ liên hệ lại với bạn trong vòng 24 giờ",
+      "infoTitle": "Thông tin liên hệ",
+      "infoDescription": "Vui lòng điền đầy đủ thông tin để chúng tôi có thể phục vụ bạn tốt nhất",
+      "fields": {
+        "name": "Họ và tên",
+        "namePlaceholder": "Nguyễn Văn A",
+        "email": "Email",
+        "emailPlaceholder": "email@example.com",
+        "phone": "Số điện thoại",
+        "phonePlaceholder": "0912 345 678",
+        "organization": "Công ty / Tổ chức",
+        "organizationPlaceholder": "Tên công ty",
+        "subject": "Chủ đề",
+        "subjectPlaceholder": "Chọn chủ đề",
+        "message": "Nội dung tin nhắn",
+        "messagePlaceholder": "Hãy cho chúng tôi biết bạn quan tâm đến điều gì...",
+        "required": "Trường bắt buộc"
+      },
+      "subjects": {
+        "guide": "Hướng dẫn sử dụng",
+        "consultation": "Tư vấn giải pháp",
+        "support": "Hỗ trợ kỹ thuật",
+        "trial": "Đăng ký dùng thử",
+        "enterprise": "Báo giá doanh nghiệp",
+        "partnership": "Hợp tác kinh doanh",
+        "other": "Khác"
+      },
+      "validation": {
+        "required": "Trường này là bắt buộc",
+        "emailInvalid": "Email không hợp lệ",
+        "phoneInvalid": "Số điện thoại không hợp lệ"
+      },
+      "submit": "Gửi Tin Nhắn",
+      "submitting": "Đang gửi...",
+      "success": "Gửi thành công!",
+      "successMessage": "Cảm ơn bạn đã liên hệ. Chúng tôi sẽ phản hồi sớm nhất có thể.",
+      "error": "Đã có lỗi xảy ra. Vui lòng thử lại sau.",
+      "whyChoose": {
+        "number": "1",
+        "title": "Tại sao chọn VFi Meet?",
+        "items": [
+          {
+            "title": "Chất lượng ổn định",
+            "description": "Hình ảnh sắc nét, âm thanh rõ ràng, tối ưu băng thông cho cuộc họp và lớp học trực tuyến"
+          },
+          {
+            "title": "Không giới hạn cài đặt",
+            "description": "Tham gia trực tiếp trên trình duyệt, không cần tải phần mềm"
+          },
+          {
+            "title": "Phù hợp họp và dạy học",
+            "description": "Chia sẻ màn hình, bảng viết, quản lý người tham gia và nhiều công cụ tương tác"
+          },
+          {
+            "title": "Hỗ trợ nhanh chóng",
+            "description": "Đội ngũ VFi Meet luôn sẵn sàng hỗ trợ khi bạn cần"
+          }
+        ]
+      },
+      "process": {
+        "number": "2",
+        "title": "Quy trình làm việc",
+        "steps": [
+          {
+            "title": "Gửi thông tin",
+            "description": "Điền form bên cạnh với thông tin chi tiết"
+          },
+          {
+            "title": "Tư vấn miễn phí",
+            "description": "Chuyên gia liên hệ trong vòng 24h"
+          },
+          {
+            "title": "Demo & trải nghiệm",
+            "description": "Dùng thử miễn phí 30 ngày"
+          },
+          {
+            "title": "Triển khai & hỗ trợ",
+            "description": "Onboarding và training đội ngũ"
+          }
+        ]
+      }
+    },
+    "info": {
+      "title": "Thông Tin Liên Hệ",
+      "description": "Nhiều cách để bạn có thể kết nối với chúng tôi. Chọn phương thức phù hợp nhất với bạn",
+      "socialTitle": "Kết Nối Với Chúng Tôi",
+      "items": {
+        "office": {
+          "title": "Địa Chỉ Văn Phòng",
+          "address": "Tầng 5, Tòa nhà A, Số 123 Đường ABC",
+          "city": "Hà Nội, Việt Nam"
+        },
+        "email": {
+          "title": "Email",
+          "description": "Gửi email cho chúng tôi",
+          "general": "info@vfimeet.vn",
+          "support": "support@vfimeet.vn"
+        },
+        "phone": {
+          "title": "Hotline",
+          "description": "Hỗ trợ 24/7 mọi lúc mọi nơi",
+          "hotline": "+84 24 3999 9999",
+          "mobile": "+84 912 345 678"
+        },
+        "hours": {
+          "title": "Giờ Làm Việc",
+          "weekday": "Thứ 2 - Thứ 6: 8:00 - 18:00",
+          "weekend": "Thứ 7: 8:00 - 12:00"
+        }
+      }
+    },
+    "about": {
+      "badge": "Về Chúng Tôi",
+      "title": "VFi Meet - Kết Nối Đơn Giản, Hiệu Quả",
+      "description": "Nền tảng họp trực tuyến được thiết kế để mang lại trải nghiệm tốt nhất cho người dùng Việt Nam",
+      "stats": [
+        {
+          "value": "10,000+",
+          "label": "Người dùng"
+        },
+        {
+          "value": "500+",
+          "label": "Doanh nghiệp"
+        },
+        {
+          "value": "99.9%",
+          "label": "Uptime"
+        },
+        {
+          "value": "5/5",
+          "label": "Đánh giá"
+        }
+      ],
+      "values": {
+        "title": "Giá Trị Cốt Lõi",
+        "items": [
+          {
+            "title": "Tầm Nhìn",
+            "description": "Trở thành nền tảng phòng họp số và đào tạo trực tuyến hiện đại, giúp các tổ chức kết nối, làm việc và giảng dạy hiệu quả trong môi trường số."
+          },
+          {
+            "title": "Sứ Mệnh",
+            "description": "Cung cấp nền tảng họp và đào tạo trực tuyến thông minh, giúp nâng cao chất lượng tương tác, chuẩn hóa quy trình làm việc và đảm bảo an toàn dữ liệu."
+          },
+          {
+            "title": "Giá Trị",
+            "description": "Chất lượng – Bảo mật – Đổi mới – Khách hàng là trung tâm – Hợp tác và phát triển bền vững, là những giá trị định hướng cho việc phát triển sản phẩm và phục vụ người dùng."
+          }
+        ]
+      }
+    },
+    "map": {
+      "title": "Vị Trí Văn Phòng",
+      "description": "Hãy ghé thăm văn phòng của chúng tôi",
+      "getDirections": "Chỉ Đường"
+    }
+  },
+  "vfiPro": {
+    "hero": {
+      "badge": "DÀNH CHO CÁ NHÂN CHUYÊN NGHIỆP",
+      "title": "Họp trực tuyến",
+      "titleHighlight": "chuyên nghiệp",
+      "titleSuffix": "cho cá nhân",
+      "description": "Nâng cấp trải nghiệm họp trực tuyến chuyên nghiệp với chất lượng ổn định, tính năng mở rộng và công cụ hỗ trợ nâng cao.",
+      "benefits": [
+        "Họp liên tục 24 giờ",
+        "Ghi hình Full HD",
+        "Livestream đa nền tảng",
+        "Công cụ họp nâng cao"
+      ],
+      "cta": {
+        "trial": "Bắt Đầu Dùng Thử",
+        "features": "Xem Tính Năng"
+      },
+      "trustNote": "✓ Không cần thẻ tín dụng • Có thể hủy bất kỳ lúc nào",
+      "stats": {
+        "users": "Người dùng",
+        "rating": "Đánh giá",
+        "support": "Hỗ trợ 24/7"
+      }
+    },
+    "features": {
+      "title": "Tính Năng Nổi Bật",
+      "subtitle": "Công cụ mạnh mẽ cho họp trực tuyến chuyên nghiệp",
+      "items": [
+        {
+          "title": "Họp Không Giới Hạn",
+          "description": "Tổ chức cuộc họp lên đến 24 giờ liên tục, không lo bị gián đoạn giữa chừng"
+        },
+        {
+          "title": "Ghi Hình Chất Lượng Cao",
+          "description": "Ghi lại toàn bộ cuộc họp với chất lượng Full HD, lưu trữ và chia sẻ dễ dàng"
+        },
+        {
+          "title": "Livestream Đa Nền Tảng",
+          "description": "Phát trực tiếp lên YouTube, Facebook và các nền tảng khác cùng lúc"
+        },
+        {
+          "title": "Bảng Trắng Nâng Cao",
+          "description": "Công cụ vẽ, annotation và cộng tác trực tuyến chuyên nghiệp"
+        },
+        {
+          "title": "Quản Lý Người Tham Gia",
+          "description": "Kiểm soát quyền phát ngôn, chia nhóm và quản lý breakout rooms"
+        },
+        {
+          "title": "Tích Hợp Đa Dạng",
+          "description": "Kết nối với Google Drive, Dropbox và các công cụ làm việc phổ biến"
+        }
+      ]
+    },
+    "target": {
+      "title": "Ai nên dùng VFi Pro?",
+      "subtitle": "VFi Pro phù hợp cho cá nhân, giảng viên, chuyên gia, freelancer và các nhóm làm việc nhỏ thường xuyên tổ chức họp, đào tạo hoặc trao đổi trực tuyến, cần chất lượng ổn định và công cụ họp chuyên nghiệp.",
+      "audiences": [
+        {
+          "title": "Giáo viên / Giảng viên",
+          "description": "Dạy học trực tuyến, chia sẻ màn hình và bảng viết tương tác"
+        },
+        {
+          "title": "Freelancer / Chuyên gia",
+          "description": "Tư vấn, đào tạo hoặc họp với khách hàng trực tuyến"
+        },
+        {
+          "title": "Nhóm làm việc nhỏ",
+          "description": "Tổ chức họp nhóm, trao đổi công việc và cộng tác từ xa"
+        },
+        {
+          "title": "Đào tạo / Workshop",
+          "description": "Tổ chức buổi chia sẻ hoặc đào tạo trực tuyến cho nhiều người"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "So Sánh Gói",
+      "subtitle": "Chọn gói phù hợp với nhu cầu của bạn",
+      "free": {
+        "name": "Miễn Phí",
+        "price": "0đ",
+        "period": "mãi mãi",
+        "features": [
+          "Họp tối đa 40 phút",
+          "Tối đa 100 người",
+          "Chất lượng HD",
+          "Bảng trắng cơ bản",
+          "Chat văn bản"
+        ],
+        "cta": "Dùng Miễn Phí"
+      },
+      "pro": {
+        "name": "VFi Pro",
+        "price": "199,000đ",
+        "period": "tháng",
+        "popular": "Phổ Biến Nhất",
+        "features": [
+          "Họp không giới hạn 24 giờ",
+          "Tối đa 100 người",
+          "Ghi hình Full HD",
+          "Livestream đa nền tảng",
+          "Bảng trắng nâng cao",
+          "Công cụ họp chuyên nghiệp",
+          "Hỗ trợ ưu tiên"
+        ],
+        "cta": "Bắt Đầu Dùng Thử"
+      }
+    },
+    "cta": {
+      "title": "Sẵn Sàng Nâng Cấp?",
+      "description": "Bắt đầu dùng thử VFi Pro ngay hôm nay. Không cần thẻ tín dụng, hủy bất cứ lúc nào.",
+      "button": "Dùng Thử Miễn Phí 14 Ngày",
+      "note": "Không yêu cầu thẻ tín dụng"
+    }
+  }
+}
